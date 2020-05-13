@@ -1,0 +1,650 @@
+,school,sex,age,address,family_size,parent_status,mothers_education,fathers_education,mothers_job,fathers_job,reason,guardian,traveltime,studytime,failures,extra_support,family_support,extra_classes,activities,nursery,higher_education,internet,romantic,family_relation,freetime,out_with_friends,daily_alcohol_cons,weekend_alcohol_cons,health,absences,first_grade,second_grade,final_grade
+0,Gabriel Pereira,Female,18,Urban,4 or more,Apart,higher,higher,at_home,teacher,course,mother,2,2,0,yes,no,no,no,yes,yes,no,no,good,normal,high,very low,very low,normal,4,0,11,11
+1,Gabriel Pereira,Female,17,Urban,4 or more,Together,primary,primary,at_home,other,course,father,1,2,0,no,yes,no,no,no,yes,yes,no,excellent,normal,normal,very low,very low,normal,2,9,11,11
+2,Gabriel Pereira,Female,15,Urban,3 or less,Together,primary,primary,at_home,other,other,mother,1,2,0,yes,no,no,no,yes,yes,yes,no,good,normal,low,low,normal,normal,6,12,13,12
+3,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,5th - 9th,health,services,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,normal,low,low,very low,very low,excellent,0,14,14,14
+4,Gabriel Pereira,Female,16,Urban,4 or more,Together,secondary,secondary,other,other,home,father,1,2,0,no,yes,no,no,yes,yes,no,no,good,normal,low,very low,low,excellent,0,11,13,13
+5,Gabriel Pereira,Male,16,Urban,3 or less,Together,higher,secondary,services,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,low,very low,low,excellent,6,12,12,13
+6,Gabriel Pereira,Male,16,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,home,mother,1,2,0,no,no,no,no,yes,yes,yes,no,good,high,high,very low,very low,normal,0,13,12,13
+7,Gabriel Pereira,Female,17,Urban,4 or more,Apart,higher,higher,other,teacher,home,mother,2,2,0,yes,yes,no,no,yes,yes,no,no,good,very low,high,very low,very low,very bad,2,10,13,13
+8,Gabriel Pereira,Male,15,Urban,3 or less,Apart,secondary,5th - 9th,services,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,low,low,very low,very low,very bad,0,15,16,17
+9,Gabriel Pereira,Male,15,Urban,4 or more,Together,secondary,higher,other,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,very high,very low,very low,very low,excellent,0,12,12,13
+10,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,higher,teacher,health,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,normal,normal,normal,very low,low,bad,2,14,14,14
+11,Gabriel Pereira,Female,15,Urban,4 or more,Together,5th - 9th,primary,services,other,reputation,father,3,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,low,low,very low,very low,good,0,10,12,13
+12,Gabriel Pereira,Male,15,Urban,3 or less,Together,higher,higher,health,services,course,father,1,1,0,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,very low,normal,excellent,0,12,13,12
+13,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,secondary,teacher,other,course,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,excellent,high,normal,very low,low,normal,0,12,12,13
+14,Gabriel Pereira,Male,15,Urban,4 or more,Apart,5th - 9th,5th - 9th,other,other,home,other,1,3,0,no,yes,no,no,yes,yes,yes,yes,good,very high,low,very low,very low,normal,0,14,14,15
+15,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,higher,health,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,good,high,high,very low,low,bad,6,17,17,17
+16,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,higher,services,services,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,normal,low,normal,very low,low,bad,10,13,13,14
+17,Gabriel Pereira,Female,16,Urban,4 or more,Together,secondary,secondary,other,other,reputation,mother,3,2,0,yes,yes,no,yes,yes,yes,no,no,excellent,normal,low,very low,very low,good,2,13,14,14
+18,Gabriel Pereira,Male,17,Urban,4 or more,Together,secondary,5th - 9th,services,services,course,mother,1,1,3,no,yes,yes,yes,yes,yes,yes,no,excellent,very high,very high,low,high,excellent,2,8,8,7
+19,Gabriel Pereira,Male,16,Urban,3 or less,Together,higher,secondary,health,other,home,father,1,1,0,no,no,no,yes,yes,yes,yes,no,normal,very low,normal,very low,normal,excellent,6,12,12,12
+20,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,secondary,teacher,other,reputation,mother,1,2,0,no,no,no,no,yes,yes,yes,no,good,high,very low,very low,very low,very bad,0,12,13,14
+21,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,higher,health,health,other,father,1,1,0,no,yes,yes,no,yes,yes,yes,no,excellent,high,low,very low,very low,excellent,0,11,12,12
+22,Gabriel Pereira,Male,16,Urban,3 or less,Together,higher,5th - 9th,teacher,other,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,good,very high,very low,very low,normal,excellent,0,12,13,14
+23,Gabriel Pereira,Male,16,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,high,low,high,excellent,2,10,10,10
+24,Gabriel Pereira,Female,15,Rural,4 or more,Together,5th - 9th,higher,services,health,course,mother,1,3,0,yes,yes,no,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,2,10,11,10
+25,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,services,services,home,mother,1,1,0,no,yes,no,no,no,yes,yes,no,very bad,low,low,very low,normal,excellent,6,10,11,12
+26,Gabriel Pereira,Male,15,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,good,low,low,very low,low,excellent,8,11,12,12
+27,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,5th - 9th,health,services,other,mother,1,1,0,no,no,no,no,yes,yes,yes,no,bad,low,high,low,high,very bad,0,11,11,11
+28,Gabriel Pereira,Male,16,Urban,3 or less,Apart,secondary,higher,services,other,home,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,excellent,2,12,12,13
+29,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,teacher,teacher,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,good,high,very high,very high,very high,excellent,4,12,11,12
+30,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,higher,health,services,home,mother,1,2,0,no,yes,yes,no,no,yes,yes,no,excellent,high,low,normal,high,excellent,0,10,11,11
+31,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,higher,services,services,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,very low,very low,very low,excellent,2,15,15,15
+32,Gabriel Pereira,Male,15,Rural,4 or more,Together,higher,secondary,teacher,at_home,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,good,very high,low,very low,very low,excellent,0,13,14,15
+33,Gabriel Pereira,Male,15,Urban,3 or less,Together,secondary,secondary,other,other,course,mother,1,2,0,no,no,no,yes,no,yes,yes,no,excellent,normal,low,very low,very low,bad,0,13,12,12
+34,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,5th - 9th,other,other,home,mother,1,1,0,no,yes,no,no,no,yes,yes,no,excellent,high,normal,very low,very low,excellent,4,12,12,12
+35,Gabriel Pereira,Female,15,Urban,4 or more,Together,5th - 9th,secondary,other,other,other,father,2,1,0,no,yes,no,yes,yes,yes,no,no,normal,very high,very low,very low,very low,excellent,4,11,11,11
+36,Gabriel Pereira,Male,15,Urban,3 or less,Together,higher,secondary,teacher,services,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,normal,very low,very low,good,0,14,14,14
+37,Gabriel Pereira,Male,16,Rural,4 or more,Apart,higher,higher,other,teacher,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,yes,bad,high,normal,very low,very low,excellent,4,13,13,13
+38,Gabriel Pereira,Female,15,Rural,4 or more,Together,secondary,higher,services,health,course,mother,1,3,0,yes,yes,no,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,2,11,12,12
+39,Gabriel Pereira,Female,15,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,reputation,mother,1,1,0,yes,yes,no,yes,yes,yes,no,no,good,normal,very low,very low,very low,bad,8,14,13,12
+40,Gabriel Pereira,Female,16,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,home,mother,2,2,0,no,yes,no,yes,no,yes,yes,yes,normal,normal,normal,very low,low,normal,16,11,11,10
+41,Gabriel Pereira,Male,15,Urban,3 or less,Together,higher,higher,teacher,other,home,other,1,1,0,no,yes,no,no,no,yes,yes,yes,excellent,high,normal,low,high,excellent,8,10,11,11
+42,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,higher,services,teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,very low,very low,excellent,0,14,15,15
+43,Gabriel Pereira,Male,15,Urban,4 or more,Together,5th - 9th,5th - 9th,services,services,course,father,1,1,0,yes,yes,no,no,yes,yes,yes,no,excellent,high,very low,very low,very low,very bad,0,9,10,10
+44,Gabriel Pereira,Female,16,Urban,3 or less,Together,5th - 9th,5th - 9th,other,at_home,course,father,2,2,1,yes,no,no,yes,yes,yes,yes,no,good,normal,normal,low,low,excellent,14,10,11,11
+45,Gabriel Pereira,Female,15,Urban,3 or less,Apart,higher,secondary,other,other,course,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,excellent,low,low,very low,very low,excellent,4,10,11,11
+46,Gabriel Pereira,Female,16,Urban,3 or less,Apart,secondary,secondary,other,services,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,bad,normal,very high,very low,high,normal,6,13,12,13
+47,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,secondary,health,services,reputation,mother,1,4,0,no,no,no,yes,yes,yes,yes,no,good,low,low,very low,very low,bad,2,17,17,17
+48,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,5th - 9th,teacher,other,home,mother,1,2,0,no,yes,no,no,yes,yes,no,no,good,normal,normal,low,low,excellent,4,11,12,13
+49,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,higher,services,teacher,other,father,1,2,0,yes,yes,no,yes,no,yes,yes,no,good,high,high,very low,very low,normal,2,13,12,12
+50,Gabriel Pereira,Female,16,Urban,3 or less,Together,5th - 9th,5th - 9th,services,services,course,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,low,normal,good,0,14,13,13
+51,Gabriel Pereira,Female,15,Urban,3 or less,Together,higher,5th - 9th,health,other,other,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,excellent,0,16,14,16
+52,Gabriel Pereira,Male,15,Urban,3 or less,Apart,higher,5th - 9th,health,health,other,father,2,1,0,no,no,no,no,yes,yes,no,no,excellent,very high,very high,normal,high,excellent,4,10,9,9
+53,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,higher,services,services,course,mother,1,1,0,yes,yes,no,no,yes,yes,yes,no,normal,normal,high,low,normal,excellent,0,13,12,12
+54,Gabriel Pereira,Female,15,Urban,3 or less,Apart,secondary,secondary,other,other,other,mother,1,1,0,no,no,no,no,yes,yes,yes,no,excellent,normal,high,high,high,very bad,0,13,12,13
+55,Gabriel Pereira,Female,16,Urban,4 or more,Apart,5th - 9th,primary,other,other,other,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,excellent,normal,high,very low,very low,bad,2,12,13,12
+56,Gabriel Pereira,Female,15,Urban,4 or more,Apart,higher,secondary,services,services,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,low,very low,very low,very bad,0,15,14,15
+57,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,higher,teacher,health,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,normal,low,low,very low,very low,excellent,8,15,15,16
+58,Gabriel Pereira,Male,15,Urban,3 or less,Together,primary,5th - 9th,other,at_home,home,father,1,2,0,yes,yes,no,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,0,14,13,14
+59,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,5th - 9th,services,other,course,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,good,low,normal,very low,very low,excellent,2,16,15,16
+60,Gabriel Pereira,Female,16,Rural,4 or more,Together,higher,higher,health,teacher,other,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,bad,high,high,low,normal,good,0,17,16,16
+61,Gabriel Pereira,Female,16,Urban,4 or more,Together,primary,primary,services,services,course,father,4,1,0,yes,yes,no,yes,no,yes,yes,yes,excellent,very high,very high,very high,very high,excellent,0,10,10,16
+62,Gabriel Pereira,Female,16,Urban,3 or less,Together,primary,5th - 9th,other,services,reputation,father,1,2,0,yes,no,no,yes,yes,yes,yes,no,good,high,normal,very low,very low,very bad,0,13,13,10
+63,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,secondary,teacher,health,home,mother,1,3,0,yes,yes,no,yes,yes,yes,yes,no,normal,high,high,low,high,good,0,14,13,13
+64,Gabriel Pereira,Female,15,Urban,3 or less,Together,higher,secondary,services,services,reputation,father,1,2,0,yes,no,no,yes,yes,yes,yes,yes,good,high,high,low,high,bad,0,13,12,12
+65,Gabriel Pereira,Female,16,Urban,3 or less,Together,higher,secondary,teacher,services,course,mother,3,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,normal,very low,low,very bad,2,16,15,16
+66,Gabriel Pereira,Male,15,Urban,4 or more,Apart,higher,higher,other,services,reputation,mother,1,4,0,no,yes,no,yes,no,yes,yes,yes,very bad,normal,normal,very high,very high,normal,0,11,12,12
+67,Gabriel Pereira,Female,16,Urban,4 or more,Together,secondary,primary,services,other,course,mother,1,4,0,yes,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,low,excellent,0,10,9,10
+68,Gabriel Pereira,Female,15,Rural,3 or less,Together,5th - 9th,5th - 9th,health,services,reputation,mother,2,2,0,yes,yes,no,no,yes,yes,yes,no,good,very low,normal,very low,normal,good,0,11,10,11
+69,Gabriel Pereira,Female,15,Rural,3 or less,Together,secondary,primary,other,other,reputation,father,2,4,0,no,yes,no,no,no,yes,yes,no,good,high,low,low,normal,normal,6,15,15,15
+70,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,primary,other,other,reputation,father,2,4,0,no,yes,no,no,yes,yes,yes,no,good,normal,low,very low,very low,excellent,2,13,11,11
+71,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,5th - 9th,other,other,course,mother,1,4,0,no,no,no,no,yes,yes,yes,no,normal,normal,normal,very low,very low,normal,0,11,9,10
+72,Gabriel Pereira,Female,15,Rural,4 or more,Together,primary,primary,other,other,reputation,mother,1,2,0,yes,yes,no,no,no,yes,yes,yes,normal,normal,high,low,high,excellent,2,13,11,11
+73,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,primary,other,other,reputation,mother,1,1,0,no,no,no,yes,yes,yes,no,no,excellent,normal,low,low,low,excellent,0,13,13,14
+74,Gabriel Pereira,Female,16,Urban,4 or more,Together,secondary,secondary,other,services,home,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,no,good,normal,normal,low,high,excellent,4,11,11,11
+75,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,secondary,teacher,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,low,normal,excellent,0,11,11,11
+76,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,None,teacher,other,course,mother,2,4,0,no,no,no,yes,yes,yes,yes,no,normal,high,normal,very low,very low,very bad,0,12,11,11
+77,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,reputation,mother,1,4,0,no,no,no,no,yes,yes,yes,yes,excellent,low,normal,very low,normal,normal,1,13,13,13
+78,Gabriel Pereira,Male,17,Urban,4 or more,Together,5th - 9th,primary,other,other,home,mother,2,1,3,yes,yes,no,yes,yes,no,yes,no,good,very high,very low,very low,very low,normal,0,9,9,10
+79,Gabriel Pereira,Female,16,Urban,4 or more,Together,secondary,higher,at_home,other,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,bad,high,normal,very low,low,normal,14,12,11,11
+80,Gabriel Pereira,Male,15,Urban,4 or more,Together,5th - 9th,secondary,other,services,course,father,1,1,0,yes,yes,no,yes,no,yes,yes,yes,normal,low,low,very low,normal,normal,0,11,11,12
+81,Gabriel Pereira,Male,15,Urban,4 or more,Together,5th - 9th,secondary,other,other,home,mother,1,3,0,yes,no,no,no,no,yes,yes,no,excellent,normal,low,very low,low,excellent,2,10,9,9
+82,Gabriel Pereira,Female,15,Urban,3 or less,Together,secondary,5th - 9th,services,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,high,high,very low,very low,excellent,4,12,11,11
+83,Gabriel Pereira,Male,15,Urban,3 or less,Together,5th - 9th,5th - 9th,services,services,home,mother,2,2,0,no,no,yes,yes,yes,yes,yes,no,excellent,normal,normal,very low,normal,good,2,13,12,13
+84,Gabriel Pereira,Female,15,Urban,4 or more,Together,primary,primary,other,other,home,father,1,2,0,no,yes,no,yes,no,yes,yes,no,good,normal,low,low,normal,good,2,13,12,12
+85,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,higher,services,services,reputation,father,2,2,0,no,no,no,no,yes,yes,yes,yes,good,high,high,low,normal,excellent,4,12,11,12
+86,Gabriel Pereira,Female,16,Urban,3 or less,Together,5th - 9th,5th - 9th,at_home,other,course,mother,1,2,0,no,yes,no,no,yes,yes,no,no,good,normal,high,very low,low,bad,6,13,11,11
+87,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,5th - 9th,other,other,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,normal,very bad,4,15,15,15
+88,Gabriel Pereira,Male,16,Urban,4 or more,Together,5th - 9th,5th - 9th,services,other,reputation,father,2,2,0,no,no,no,yes,no,yes,yes,no,good,high,low,very low,very low,normal,6,12,10,11
+89,Gabriel Pereira,Male,16,Urban,3 or less,Apart,higher,higher,teacher,health,reputation,mother,1,2,0,no,yes,no,no,yes,yes,no,no,good,very low,normal,normal,very high,excellent,6,9,9,10
+90,Gabriel Pereira,Female,16,Urban,4 or more,Together,secondary,secondary,other,other,home,mother,1,3,0,no,yes,no,no,yes,yes,yes,yes,good,normal,normal,very low,normal,good,2,9,11,11
+91,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,secondary,services,other,reputation,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,good,very high,very high,very low,normal,very bad,6,14,13,13
+92,Gabriel Pereira,Female,16,Urban,3 or less,Together,secondary,primary,other,other,home,father,1,2,0,yes,yes,no,no,yes,yes,no,no,normal,normal,normal,low,normal,bad,0,12,13,12
+93,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,5th - 9th,teacher,services,home,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,very bad,2,13,14,14
+94,Gabriel Pereira,Male,15,Urban,3 or less,Together,5th - 9th,5th - 9th,services,health,reputation,mother,1,4,0,no,yes,no,yes,yes,yes,yes,no,good,normal,high,very low,very low,good,2,11,12,12
+95,Gabriel Pereira,Female,15,Rural,4 or more,Together,primary,primary,at_home,other,home,mother,2,4,0,yes,yes,yes,yes,yes,yes,yes,no,normal,very low,low,very low,very low,very bad,4,13,13,13
+96,Gabriel Pereira,Male,16,Rural,4 or more,Together,higher,secondary,services,other,reputation,mother,2,1,0,yes,yes,yes,yes,no,yes,yes,no,normal,normal,normal,very low,very low,good,6,9,11,11
+97,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,primary,other,other,course,mother,1,2,0,no,yes,no,no,yes,yes,no,yes,good,normal,very high,very low,very low,excellent,0,13,12,12
+98,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,higher,other,other,reputation,mother,1,1,0,no,no,no,yes,no,yes,yes,no,excellent,normal,high,very low,low,very bad,4,12,13,13
+99,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,secondary,other,at_home,course,mother,1,3,0,yes,yes,no,no,yes,yes,yes,no,excellent,normal,very high,very low,very low,normal,2,12,13,13
+100,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,services,services,other,mother,1,1,0,yes,yes,no,yes,yes,yes,yes,no,good,very high,very high,very high,very high,good,12,9,9,8
+101,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,services,teacher,other,father,1,3,0,no,yes,no,yes,yes,yes,yes,yes,good,high,normal,very low,very low,good,0,16,16,16
+102,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,higher,services,other,course,mother,1,1,0,no,yes,yes,yes,no,yes,yes,no,excellent,normal,normal,very low,very low,excellent,2,12,13,12
+103,Gabriel Pereira,Female,15,Urban,4 or more,Together,secondary,5th - 9th,services,other,home,mother,2,2,0,yes,yes,no,no,yes,yes,yes,no,good,normal,very high,very low,very low,bad,16,11,10,10
+104,Gabriel Pereira,Male,15,Urban,4 or more,Apart,secondary,higher,services,other,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,high,very low,very low,very bad,0,16,16,16
+105,Gabriel Pereira,Female,15,Urban,4 or more,Apart,secondary,secondary,other,health,reputation,father,1,4,0,yes,no,no,no,yes,yes,no,no,good,normal,normal,very low,very low,good,10,10,10,10
+106,Gabriel Pereira,Female,15,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,1,4,0,yes,yes,no,no,yes,yes,yes,no,excellent,very low,low,very low,very low,normal,4,10,10,10
+107,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,secondary,services,other,home,father,1,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,excellent,4,13,14,14
+108,Gabriel Pereira,Male,15,Rural,4 or more,Together,higher,higher,other,other,home,father,4,4,0,no,yes,no,yes,yes,yes,yes,yes,very bad,normal,very high,normal,very high,very bad,8,12,10,11
+109,Gabriel Pereira,Female,16,Urban,3 or less,Together,higher,higher,health,health,other,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,excellent,high,very high,very low,very low,good,2,15,15,14
+110,Gabriel Pereira,Male,15,Urban,3 or less,Apart,higher,higher,teacher,teacher,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,excellent,very high,normal,very low,very low,good,4,13,14,14
+111,Gabriel Pereira,Female,16,Rural,4 or more,Together,secondary,secondary,services,other,reputation,father,1,3,0,yes,yes,no,yes,yes,yes,yes,no,good,very low,low,very low,very low,bad,4,11,11,11
+112,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,at_home,other,home,mother,1,2,1,yes,no,no,yes,yes,yes,yes,no,normal,very low,low,very low,very low,excellent,12,8,10,10
+113,Gabriel Pereira,Male,15,Urban,3 or less,Together,higher,5th - 9th,teacher,other,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,normal,very high,low,very low,very low,normal,10,18,17,18
+114,Gabriel Pereira,Male,15,Rural,4 or more,Together,5th - 9th,primary,health,services,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,excellent,high,low,very low,very low,excellent,4,10,9,10
+115,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,teacher,teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,high,very low,low,excellent,6,16,14,14
+116,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,higher,other,teacher,reputation,father,2,2,0,no,yes,no,yes,yes,yes,no,no,good,high,normal,very low,very low,bad,4,16,15,16
+117,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,secondary,other,services,home,father,2,1,0,no,no,no,yes,yes,yes,yes,no,excellent,high,low,very low,very low,excellent,6,14,14,15
+118,Gabriel Pereira,Male,17,Rural,4 or more,Together,primary,secondary,other,other,course,father,3,2,1,no,yes,no,yes,yes,yes,yes,no,excellent,low,high,very low,high,excellent,14,12,11,11
+119,Gabriel Pereira,Male,15,Urban,4 or more,Together,secondary,higher,other,other,reputation,father,1,1,0,no,no,no,no,yes,yes,yes,no,normal,high,normal,very low,low,good,2,14,13,14
+120,Gabriel Pereira,Female,15,Urban,4 or more,Together,primary,5th - 9th,at_home,services,course,mother,1,2,0,no,no,no,no,no,yes,yes,no,normal,low,normal,very low,low,very bad,0,14,14,14
+121,Gabriel Pereira,Male,15,Urban,4 or more,Together,5th - 9th,5th - 9th,services,services,home,father,1,4,0,no,yes,no,yes,yes,yes,yes,no,excellent,very high,high,very low,low,excellent,6,14,13,13
+122,Gabriel Pereira,Female,16,Urban,3 or less,Together,5th - 9th,higher,other,health,course,father,2,2,0,no,yes,no,yes,yes,yes,yes,yes,good,low,low,very low,low,excellent,2,14,12,13
+123,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,health,other,course,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,normal,high,high,very low,high,excellent,4,12,13,13
+124,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,home,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,excellent,high,high,very low,very low,excellent,0,12,11,11
+125,Gabriel Pereira,Male,15,Urban,4 or more,Together,secondary,higher,services,services,home,father,1,1,0,yes,no,no,no,yes,yes,yes,no,excellent,very high,very high,normal,low,excellent,2,9,9,9
+126,Gabriel Pereira,Female,15,Urban,3 or less,Apart,secondary,higher,other,other,home,mother,1,2,0,yes,no,no,yes,yes,yes,yes,yes,excellent,normal,low,very low,very low,very bad,0,10,11,11
+127,Gabriel Pereira,Female,19,Urban,4 or more,Together,None,primary,at_home,other,course,other,1,2,2,no,yes,no,no,no,no,no,no,normal,high,low,very low,very low,excellent,0,9,10,11
+128,Gabriel Pereira,Male,16,Rural,4 or more,Together,higher,higher,teacher,teacher,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,normal,very high,very high,low,very high,good,8,14,14,15
+129,Gabriel Pereira,Male,16,Urban,4 or more,Together,5th - 9th,secondary,other,other,course,mother,2,3,0,no,yes,no,no,no,yes,yes,yes,normal,low,normal,low,low,very bad,4,13,12,13
+130,Gabriel Pereira,Female,15,Rural,4 or more,Together,secondary,higher,services,teacher,course,father,2,3,0,no,yes,no,no,yes,yes,yes,yes,good,low,low,low,low,excellent,0,10,11,12
+131,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,primary,services,other,reputation,mother,1,2,3,no,yes,no,yes,yes,no,yes,yes,excellent,high,very high,very low,normal,excellent,10,10,9,8
+132,Gabriel Pereira,Female,17,Urban,3 or less,Apart,5th - 9th,primary,other,other,course,mother,3,1,0,no,yes,no,no,yes,yes,yes,no,normal,low,low,very low,low,excellent,8,11,10,11
+133,Gabriel Pereira,Female,15,Urban,4 or more,Together,primary,primary,at_home,other,course,mother,3,1,0,no,yes,no,yes,no,yes,yes,yes,good,normal,normal,very low,low,good,6,11,12,13
+134,Gabriel Pereira,Female,17,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,course,father,1,1,0,no,yes,no,no,yes,yes,yes,yes,normal,high,high,very low,normal,excellent,2,13,12,12
+135,Gabriel Pereira,Female,16,Urban,4 or more,Apart,secondary,higher,services,other,course,father,1,1,0,no,no,no,no,yes,yes,yes,no,normal,low,very low,very low,high,excellent,12,15,13,14
+136,Gabriel Pereira,Male,16,Urban,4 or more,Together,5th - 9th,primary,at_home,other,course,mother,4,1,0,no,no,no,no,yes,yes,no,no,normal,low,very low,very low,very low,bad,4,9,9,11
+137,Gabriel Pereira,Female,16,Urban,4 or more,Apart,5th - 9th,5th - 9th,other,other,home,mother,1,1,1,no,no,no,no,yes,yes,no,no,excellent,normal,high,very low,very low,excellent,12,13,11,11
+138,Gabriel Pereira,Male,15,Rural,4 or more,Together,secondary,higher,at_home,teacher,course,mother,4,2,0,no,yes,no,no,yes,yes,no,yes,excellent,normal,normal,very low,very low,excellent,2,12,11,11
+139,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,higher,services,at_home,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,normal,very low,very low,excellent,4,13,14,15
+140,Gabriel Pereira,Male,17,Rural,4 or more,Together,secondary,higher,at_home,other,course,mother,3,2,0,no,no,no,no,yes,yes,no,no,excellent,high,very high,low,high,excellent,2,10,9,10
+141,Gabriel Pereira,Female,16,Rural,4 or more,Together,primary,primary,at_home,other,course,mother,4,2,0,no,yes,no,no,yes,yes,no,no,excellent,very low,normal,very low,very low,normal,0,14,13,13
+142,Gabriel Pereira,Male,18,Urban,3 or less,Together,secondary,primary,services,services,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,yes,normal,normal,high,high,very high,good,2,11,11,12
+143,Gabriel Pereira,Female,18,Urban,4 or more,Apart,secondary,5th - 9th,other,services,course,other,1,3,0,no,yes,no,yes,no,yes,yes,yes,good,normal,normal,very high,very low,excellent,10,12,11,11
+144,Gabriel Pereira,Female,16,Rural,4 or more,Together,primary,primary,other,services,reputation,mother,2,1,0,no,yes,no,yes,yes,yes,no,yes,normal,normal,normal,very low,low,very bad,8,12,11,11
+145,Gabriel Pereira,Female,16,Urban,4 or more,Apart,secondary,secondary,other,other,course,other,2,1,0,no,yes,no,yes,no,yes,yes,yes,good,normal,low,very low,very low,excellent,4,9,9,10
+146,Gabriel Pereira,Male,16,Urban,3 or less,Together,primary,primary,services,other,course,mother,1,2,2,no,no,no,no,yes,yes,no,yes,good,high,high,very low,normal,excellent,0,10,10,10
+147,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,higher,teacher,teacher,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,6,13,14,14
+148,Gabriel Pereira,Female,15,Rural,4 or more,Together,primary,primary,other,other,course,mother,3,1,1,no,no,no,yes,yes,yes,yes,yes,excellent,very high,very high,very low,very low,very bad,2,8,9,9
+149,Gabriel Pereira,Male,15,Urban,4 or more,Together,higher,secondary,teacher,services,course,father,2,4,0,yes,yes,no,no,yes,yes,yes,no,bad,low,low,very low,very low,normal,6,9,11,11
+150,Gabriel Pereira,Female,15,Urban,4 or more,Apart,secondary,secondary,services,services,home,mother,1,2,0,no,no,no,no,no,yes,no,yes,very bad,normal,low,low,normal,very bad,24,9,8,9
+151,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,services,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,normal,excellent,0,15,13,13
+152,Gabriel Pereira,Male,16,Urban,3 or less,Together,5th - 9th,5th - 9th,services,services,reputation,father,2,1,0,no,yes,no,yes,yes,yes,yes,no,bad,normal,normal,low,low,bad,4,12,11,11
+153,Gabriel Pereira,Female,15,Urban,4 or more,Together,higher,higher,teacher,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,good,low,low,very low,very low,excellent,2,13,13,13
+154,Gabriel Pereira,Female,16,Urban,3 or less,Together,primary,primary,at_home,at_home,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,normal,high,high,normal,normal,very bad,4,10,11,11
+155,Gabriel Pereira,Male,17,Urban,4 or more,Together,5th - 9th,primary,other,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,excellent,high,very high,very low,low,excellent,22,9,7,6
+156,Gabriel Pereira,Female,15,Urban,4 or more,Together,primary,primary,other,services,course,father,1,2,0,no,yes,no,no,yes,yes,yes,no,good,high,low,very low,low,excellent,0,12,12,12
+157,Gabriel Pereira,Female,15,Urban,3 or less,Apart,5th - 9th,primary,at_home,other,home,mother,2,1,0,no,yes,no,yes,yes,no,yes,yes,good,high,low,very low,very low,excellent,0,11,10,10
+158,Gabriel Pereira,Female,15,Urban,4 or more,Together,secondary,5th - 9th,health,services,home,father,1,2,1,no,yes,no,no,yes,yes,yes,no,normal,normal,low,very low,very low,normal,2,11,11,11
+159,Gabriel Pereira,Female,15,Urban,4 or more,Together,primary,5th - 9th,at_home,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,no,good,normal,low,very low,very low,excellent,6,13,12,13
+160,Gabriel Pereira,Female,15,Urban,4 or more,Together,primary,5th - 9th,at_home,services,course,father,1,2,0,no,no,no,no,no,yes,no,yes,bad,normal,high,low,high,very bad,6,11,11,11
+161,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,teacher,teacher,course,mother,1,1,0,no,yes,no,no,yes,no,yes,yes,normal,normal,low,low,very low,excellent,16,9,9,8
+162,Gabriel Pereira,Male,15,Urban,3 or less,Apart,5th - 9th,primary,services,other,course,mother,4,1,0,no,no,no,no,yes,yes,yes,no,good,very high,very high,low,very high,excellent,0,12,11,11
+163,Gabriel Pereira,Male,18,Urban,3 or less,Together,primary,primary,other,other,course,mother,1,1,2,no,no,no,no,yes,no,yes,yes,bad,normal,very high,low,very high,good,0,11,9,0
+164,Gabriel Pereira,Male,16,Urban,3 or less,Together,5th - 9th,primary,at_home,other,course,mother,1,1,1,no,no,no,yes,yes,yes,no,yes,good,high,high,normal,very high,excellent,6,9,10,10
+165,Gabriel Pereira,Female,15,Rural,4 or more,Together,secondary,secondary,services,services,reputation,other,2,3,0,no,yes,yes,yes,yes,yes,yes,yes,good,low,very low,low,normal,normal,2,13,13,13
+166,Gabriel Pereira,Male,19,Urban,4 or more,Together,secondary,5th - 9th,services,at_home,home,mother,1,1,0,no,yes,no,no,yes,no,yes,yes,good,very high,high,very low,very low,good,6,11,9,11
+167,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,higher,other,teacher,course,mother,1,1,0,yes,yes,no,no,yes,yes,no,yes,good,low,very low,very low,very low,good,0,13,13,13
+168,Gabriel Pereira,Male,15,Rural,4 or more,Together,5th - 9th,secondary,at_home,services,course,mother,1,2,0,yes,no,yes,yes,yes,yes,no,no,good,high,high,very low,very low,very bad,0,7,8,8
+169,Gabriel Pereira,Male,17,Rural,3 or less,Together,primary,5th - 9th,other,other,reputation,mother,1,1,3,no,no,no,no,yes,yes,no,no,bad,low,low,normal,normal,excellent,14,9,8,10
+170,Gabriel Pereira,Female,18,Rural,4 or more,Together,primary,primary,at_home,other,course,mother,3,1,3,no,yes,no,yes,no,yes,no,no,excellent,low,very high,very low,very high,good,6,11,10,11
+171,Gabriel Pereira,Male,16,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,course,mother,3,1,0,no,no,no,no,no,yes,no,no,good,low,low,very low,low,normal,4,12,10,11
+172,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,secondary,other,services,course,father,1,2,1,no,yes,no,no,yes,yes,yes,yes,good,very high,very high,high,high,excellent,0,10,10,1
+173,Gabriel Pereira,Male,16,Urban,3 or less,Together,primary,5th - 9th,health,services,course,mother,2,1,2,no,no,no,no,no,yes,yes,no,good,high,very high,normal,very high,excellent,0,9,8,10
+174,Gabriel Pereira,Male,17,Rural,3 or less,Together,5th - 9th,primary,at_home,other,course,mother,2,1,1,no,no,yes,yes,yes,no,yes,yes,normal,normal,low,low,low,excellent,8,8,8,9
+175,Gabriel Pereira,Male,17,Rural,4 or more,Together,secondary,5th - 9th,other,other,course,mother,2,2,2,yes,yes,no,no,yes,yes,yes,yes,good,high,high,very low,high,normal,4,7,6,8
+176,Gabriel Pereira,Male,15,Urban,3 or less,Together,primary,5th - 9th,other,other,course,mother,2,1,0,no,no,no,yes,yes,yes,no,no,good,high,high,low,high,excellent,2,8,9,10
+177,Gabriel Pereira,Male,16,Urban,4 or more,Together,primary,secondary,at_home,services,course,father,1,1,1,no,no,no,no,yes,no,yes,no,excellent,normal,normal,very low,high,bad,2,9,8,8
+178,Gabriel Pereira,Male,17,Rural,3 or less,Together,primary,primary,other,services,course,mother,4,2,0,no,no,no,yes,yes,no,no,yes,excellent,normal,very high,very low,very high,excellent,0,8,8,8
+179,Gabriel Pereira,Male,17,Urban,4 or more,Together,secondary,5th - 9th,services,services,course,mother,2,1,3,no,yes,no,yes,no,no,no,no,good,very high,low,very low,very low,bad,10,8,7,8
+180,Gabriel Pereira,Male,16,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,course,father,1,2,0,no,no,no,no,yes,no,yes,no,good,normal,very high,low,high,good,0,9,10,11
+181,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,5th - 9th,health,services,home,father,1,2,0,no,no,no,no,yes,yes,yes,yes,good,low,normal,very low,very low,normal,0,17,17,18
+182,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,home,mother,1,2,0,no,yes,no,no,no,yes,yes,no,excellent,very low,very high,very low,very low,good,0,12,12,13
+183,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,higher,health,health,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,good,high,low,very low,very low,normal,0,16,16,17
+184,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,higher,other,other,course,father,3,1,1,no,yes,no,yes,no,yes,yes,no,normal,high,very high,low,high,bad,4,9,9,10
+185,Gabriel Pereira,Male,16,Urban,4 or more,Together,primary,None,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,low,very low,very low,normal,0,16,17,18
+186,Gabriel Pereira,Male,17,Urban,3 or less,Together,higher,higher,teacher,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,high,high,very low,normal,excellent,0,11,9,10
+187,Gabriel Pereira,Female,16,Urban,4 or more,Together,primary,secondary,at_home,services,home,mother,1,2,0,no,no,no,yes,no,yes,yes,yes,good,normal,very high,very low,very low,normal,0,14,13,13
+188,Gabriel Pereira,Female,16,Urban,3 or less,Together,secondary,secondary,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,good,high,very high,very low,very low,good,0,14,14,15
+189,Gabriel Pereira,Male,17,Urban,3 or less,Together,higher,secondary,teacher,other,course,mother,2,2,0,no,no,no,yes,yes,yes,yes,no,good,high,high,high,high,good,0,10,11,11
+190,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,services,other,reputation,mother,2,2,0,no,no,no,yes,no,yes,yes,no,normal,high,high,very low,high,excellent,0,13,12,14
+191,Gabriel Pereira,Male,17,Urban,4 or more,Together,secondary,secondary,other,other,reputation,father,1,2,0,no,no,no,yes,no,yes,yes,no,good,normal,high,very low,high,good,4,11,9,10
+192,Gabriel Pereira,Male,16,Rural,4 or more,Together,higher,5th - 9th,teacher,services,other,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,normal,normal,high,normal,8,10,9,11
+193,Gabriel Pereira,Male,17,Urban,4 or more,Together,higher,secondary,other,other,course,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,excellent,low,normal,very low,very low,bad,4,11,11,13
+194,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,secondary,teacher,other,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,normal,high,normal,low,normal,normal,4,11,10,11
+195,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,secondary,services,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,good,low,normal,very low,low,normal,0,11,12,13
+196,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,higher,services,services,reputation,father,1,2,0,no,yes,no,yes,yes,yes,no,no,excellent,high,low,low,normal,excellent,0,17,18,17
+197,Gabriel Pereira,Female,17,Urban,3 or less,Together,secondary,secondary,other,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,excellent,normal,normal,low,normal,very bad,32,14,13,14
+198,Gabriel Pereira,Female,16,Urban,4 or more,Together,secondary,5th - 9th,other,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,very bad,low,low,very low,low,very bad,8,14,15,16
+199,Gabriel Pereira,Male,17,Urban,4 or more,Together,secondary,secondary,services,services,other,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,high,low,normal,good,6,11,13,14
+200,Gabriel Pereira,Male,16,Urban,4 or more,Together,primary,5th - 9th,services,services,other,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,normal,normal,normal,very low,low,normal,0,10,9,11
+201,Gabriel Pereira,Male,16,Urban,3 or less,Together,5th - 9th,primary,other,other,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,good,low,normal,very low,low,excellent,0,13,14,16
+202,Gabriel Pereira,Female,17,Urban,4 or more,Apart,secondary,secondary,health,other,reputation,mother,1,2,0,no,yes,no,no,no,yes,yes,yes,normal,normal,normal,very low,normal,normal,10,12,13,14
+203,Gabriel Pereira,Male,17,Rural,4 or more,Together,primary,5th - 9th,at_home,other,home,mother,1,2,0,no,no,no,no,yes,yes,no,no,normal,very low,normal,very low,very high,normal,6,9,9,10
+204,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,secondary,services,services,course,mother,1,2,0,no,no,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,bad,6,12,12,13
+205,Gabriel Pereira,Female,17,Urban,4 or more,Together,primary,primary,at_home,services,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,normal,0,12,11,12
+206,Gabriel Pereira,Male,17,Urban,4 or more,Together,primary,5th - 9th,at_home,services,other,other,2,2,0,no,no,no,yes,no,yes,yes,no,good,high,high,high,very high,excellent,16,10,11,12
+207,Gabriel Pereira,Male,16,Rural,4 or more,Together,secondary,secondary,services,services,reputation,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,good,normal,low,normal,high,excellent,0,11,10,10
+208,Gabriel Pereira,Male,16,Urban,4 or more,Together,5th - 9th,secondary,other,other,home,father,2,1,0,no,no,no,no,yes,yes,yes,no,excellent,normal,normal,very low,very low,normal,0,13,12,12
+209,Gabriel Pereira,Female,17,Urban,3 or less,Together,5th - 9th,higher,services,services,course,father,1,2,0,no,no,no,yes,yes,yes,yes,yes,good,normal,low,very low,very low,excellent,8,14,15,16
+210,Gabriel Pereira,Male,17,Urban,4 or more,Together,higher,higher,services,teacher,home,mother,1,1,0,no,no,no,no,yes,yes,yes,no,excellent,low,normal,very low,low,excellent,4,13,13,14
+211,Gabriel Pereira,Male,16,Rural,3 or less,Together,secondary,secondary,teacher,other,home,father,3,1,0,no,yes,no,yes,yes,yes,yes,no,normal,normal,high,normal,very high,normal,16,10,11,12
+212,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,higher,services,teacher,home,mother,2,1,1,no,yes,no,no,yes,yes,yes,no,good,low,high,low,normal,bad,30,14,15,16
+213,Gabriel Pereira,Female,16,Urban,3 or less,Together,higher,higher,teacher,teacher,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,very high,low,very low,low,normal,0,11,10,11
+214,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,secondary,health,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,very high,very low,very high,bad,2,14,14,15
+215,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,secondary,other,other,reputation,mother,1,2,0,yes,yes,no,yes,yes,yes,no,no,good,high,normal,very low,normal,good,4,11,12,12
+216,Gabriel Pereira,Female,17,Urban,4 or more,Together,primary,primary,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,no,no,good,high,high,very low,normal,very bad,0,14,15,15
+217,Gabriel Pereira,Female,17,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,reputation,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,excellent,normal,low,very low,low,normal,21,13,13,13
+218,Gabriel Pereira,Female,16,Rural,4 or more,Together,5th - 9th,5th - 9th,services,services,reputation,mother,2,4,0,no,yes,no,yes,no,yes,yes,no,excellent,normal,very high,very low,very low,excellent,6,13,13,13
+219,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,higher,at_home,services,home,mother,1,3,1,no,yes,yes,no,yes,yes,yes,yes,good,high,normal,normal,high,excellent,14,8,9,8
+220,Gabriel Pereira,Female,16,Urban,4 or more,Apart,secondary,primary,services,other,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,bad,normal,normal,low,low,good,2,11,11,12
+221,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,secondary,teacher,other,other,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,very bad,normal,low,very low,very low,very bad,4,14,15,15
+222,Gabriel Pereira,Female,16,Urban,4 or more,Together,primary,primary,at_home,other,home,mother,2,1,0,no,yes,no,no,yes,yes,no,no,good,normal,low,very low,high,excellent,2,12,13,13
+223,Gabriel Pereira,Female,17,Rural,4 or more,Together,higher,secondary,teacher,other,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,yes,good,high,low,very low,very low,good,0,11,12,12
+224,Gabriel Pereira,Female,19,Urban,4 or more,Together,secondary,secondary,other,other,reputation,other,1,4,0,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,very low,low,normal,4,12,12,12
+225,Gabriel Pereira,Male,17,Urban,3 or less,Together,higher,higher,services,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,excellent,normal,very high,high,very high,normal,15,13,12,12
+226,Gabriel Pereira,Female,16,Urban,4 or more,Apart,5th - 9th,5th - 9th,other,other,reputation,mother,1,2,0,yes,yes,no,no,yes,yes,yes,no,normal,normal,high,very low,very low,good,0,13,13,13
+227,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,5th - 9th,services,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,high,high,low,high,excellent,10,12,11,11
+228,Gabriel Pereira,Female,17,Rural,3 or less,Together,higher,higher,services,other,other,mother,1,1,0,no,yes,no,no,yes,yes,no,no,excellent,low,very low,very low,low,normal,6,12,11,11
+229,Gabriel Pereira,Female,17,Urban,3 or less,Together,secondary,5th - 9th,other,other,reputation,mother,2,2,0,no,no,no,no,yes,yes,yes,no,good,high,high,very low,normal,very bad,2,14,16,15
+230,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,secondary,other,other,reputation,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,normal,high,very high,low,high,very bad,16,11,9,10
+231,Gabriel Pereira,Male,18,Urban,3 or less,Together,secondary,secondary,services,health,home,father,1,2,0,no,yes,no,no,yes,yes,yes,no,normal,low,high,low,high,good,10,10,10,10
+232,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,secondary,at_home,other,home,father,2,1,0,no,yes,no,no,yes,yes,no,no,normal,normal,normal,very low,high,normal,4,12,13,13
+233,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,5th - 9th,at_home,at_home,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,very low,very low,good,0,12,12,13
+234,Gabriel Pereira,Female,17,Rural,4 or more,Together,5th - 9th,primary,at_home,services,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,good,low,very high,very low,low,excellent,0,11,10,11
+235,Gabriel Pereira,Female,17,Urban,4 or more,Together,primary,primary,at_home,other,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,no,yes,good,normal,high,very low,very low,excellent,12,12,12,12
+236,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,secondary,services,teacher,other,mother,1,2,0,yes,no,no,no,yes,yes,yes,no,bad,normal,very low,very low,very low,normal,0,13,13,14
+237,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,home,mother,2,2,3,no,yes,yes,no,yes,yes,yes,no,normal,normal,normal,very high,very high,good,9,10,9,10
+238,Gabriel Pereira,Female,16,Urban,4 or more,Together,higher,higher,teacher,services,home,mother,1,3,0,no,yes,no,yes,no,yes,yes,no,excellent,normal,low,very low,very low,excellent,4,15,16,16
+239,Gabriel Pereira,Female,18,Rural,4 or more,Together,secondary,primary,other,other,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,excellent,normal,normal,very low,very low,good,4,8,8,8
+240,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,5th - 9th,other,other,course,mother,1,2,0,no,no,no,yes,no,yes,yes,no,excellent,normal,high,very low,normal,normal,2,17,18,17
+241,Gabriel Pereira,Male,17,Urban,3 or less,Together,5th - 9th,secondary,services,services,reputation,father,1,2,0,no,yes,no,no,no,yes,yes,no,excellent,normal,normal,very low,normal,normal,0,10,11,11
+242,Gabriel Pereira,Male,18,Urban,3 or less,Together,5th - 9th,primary,at_home,other,course,mother,4,2,0,yes,yes,no,yes,yes,yes,yes,yes,good,normal,low,high,very high,normal,2,9,10,11
+243,Gabriel Pereira,Female,17,Urban,4 or more,Apart,5th - 9th,primary,other,other,course,mother,2,3,0,no,no,no,yes,yes,yes,yes,yes,normal,low,normal,very low,low,normal,0,15,15,16
+244,Gabriel Pereira,Female,17,Urban,3 or less,Together,higher,secondary,health,other,reputation,father,1,2,0,no,no,no,yes,yes,yes,yes,yes,normal,low,normal,very low,low,normal,0,14,12,12
+245,Gabriel Pereira,Male,17,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,course,father,2,2,0,no,yes,no,yes,yes,yes,yes,no,good,very high,low,very low,very low,very bad,0,12,13,13
+246,Gabriel Pereira,Male,17,Urban,4 or more,Together,higher,higher,teacher,teacher,reputation,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,yes,good,very high,very high,very low,normal,bad,0,13,13,13
+247,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,health,other,reputation,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,low,high,low,high,very bad,0,13,13,14
+248,Gabriel Pereira,Male,16,Urban,3 or less,Together,primary,primary,other,other,home,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,normal,high,low,very low,very low,excellent,2,9,9,9
+249,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,5th - 9th,at_home,other,reputation,mother,2,3,0,no,no,no,yes,yes,yes,yes,yes,excellent,normal,normal,very low,normal,bad,0,12,12,12
+250,Gabriel Pereira,Male,17,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,home,father,1,2,0,no,no,no,yes,no,yes,yes,yes,good,high,low,very high,very high,good,0,16,16,16
+251,Gabriel Pereira,Female,16,Urban,4 or more,Together,5th - 9th,primary,other,other,home,mother,1,1,0,no,no,no,no,yes,yes,yes,yes,good,very high,low,very low,very low,excellent,4,9,10,10
+252,Gabriel Pereira,Female,16,Urban,4 or more,Apart,higher,primary,other,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,excellent,normal,normal,very low,low,excellent,0,14,13,13
+253,Gabriel Pereira,Female,18,Urban,3 or less,Apart,5th - 9th,higher,services,other,course,mother,2,2,1,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,normal,18,10,10,10
+254,Gabriel Pereira,Female,18,Urban,3 or less,Together,5th - 9th,5th - 9th,at_home,services,course,mother,1,2,1,no,yes,no,no,no,yes,yes,yes,excellent,normal,very low,very low,very low,excellent,16,9,8,10
+255,Gabriel Pereira,Female,18,Urban,4 or more,Together,secondary,secondary,other,other,course,mother,2,1,1,no,no,no,no,yes,no,yes,no,good,very low,very low,very low,very low,normal,14,8,7,7
+256,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,5th - 9th,other,at_home,course,other,1,1,1,no,yes,no,yes,no,no,yes,yes,good,high,normal,low,low,very bad,26,7,8,8
+257,Gabriel Pereira,Male,17,Urban,4 or more,Together,higher,higher,teacher,teacher,course,mother,1,1,0,no,yes,no,yes,no,yes,yes,no,good,low,very low,very low,low,excellent,6,10,8,9
+258,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,5th - 9th,other,other,course,father,1,2,0,no,no,no,yes,yes,yes,no,no,excellent,high,low,very low,very low,normal,4,14,14,15
+259,Gabriel Pereira,Female,17,Urban,3 or less,Together,primary,primary,at_home,at_home,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,low,very low,low,good,10,11,10,10
+260,Gabriel Pereira,Female,16,Urban,4 or more,Together,primary,5th - 9th,other,other,course,mother,1,1,0,no,no,no,no,yes,no,yes,no,excellent,normal,very high,very low,low,excellent,4,12,11,11
+261,Gabriel Pereira,Female,17,Rural,4 or more,Together,5th - 9th,primary,at_home,services,course,mother,3,2,0,no,no,no,yes,yes,yes,no,no,bad,very low,very low,very low,very low,normal,2,13,13,13
+262,Gabriel Pereira,Female,17,Rural,3 or less,Apart,primary,higher,other,other,course,other,4,1,1,no,yes,no,no,yes,yes,yes,no,excellent,very high,high,very low,very low,excellent,14,9,9,8
+263,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,5th - 9th,other,services,reputation,father,1,2,0,no,no,no,no,yes,no,yes,no,excellent,very high,high,normal,very high,bad,16,8,7,8
+264,Gabriel Pereira,Female,17,Urban,3 or less,Apart,5th - 9th,5th - 9th,other,other,home,mother,1,1,1,no,yes,no,no,no,no,yes,no,normal,very low,low,very low,very low,very bad,8,11,9,10
+265,Gabriel Pereira,Female,17,Rural,3 or less,Together,primary,primary,at_home,other,course,mother,2,3,0,no,no,no,yes,yes,yes,yes,no,good,normal,normal,very low,normal,excellent,4,15,14,15
+266,Gabriel Pereira,Female,17,Urban,3 or less,Apart,higher,5th - 9th,teacher,other,course,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,good,normal,low,very low,very low,good,4,15,14,14
+267,Gabriel Pereira,Male,17,Urban,3 or less,Together,higher,secondary,health,other,course,mother,2,2,0,no,no,no,yes,yes,yes,yes,yes,bad,very high,very high,very low,high,excellent,8,15,15,15
+268,Gabriel Pereira,Male,17,Rural,3 or less,Apart,higher,higher,teacher,other,course,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,normal,normal,normal,low,normal,good,0,12,12,12
+269,Gabriel Pereira,Male,16,Urban,3 or less,Together,higher,secondary,teacher,other,course,mother,1,1,0,no,no,no,yes,no,yes,yes,no,excellent,high,very high,very low,very low,normal,7,14,14,15
+270,Gabriel Pereira,Male,16,Urban,4 or more,Together,higher,higher,services,services,course,mother,1,1,0,no,no,yes,yes,yes,yes,yes,no,excellent,normal,low,very low,low,excellent,4,14,15,15
+271,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,higher,teacher,services,course,mother,1,2,0,no,yes,yes,no,yes,yes,yes,yes,excellent,normal,very low,very low,high,excellent,2,11,11,12
+272,Gabriel Pereira,Male,17,Rural,4 or more,Together,primary,primary,other,other,home,father,2,3,0,no,no,no,no,no,yes,yes,yes,good,normal,normal,very low,very low,very bad,2,13,14,15
+273,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,secondary,services,other,home,mother,2,3,0,no,yes,no,no,yes,yes,yes,yes,good,low,low,low,normal,excellent,10,11,11,11
+274,Gabriel Pereira,Female,17,Urban,4 or more,Together,primary,primary,at_home,other,course,mother,1,2,0,yes,no,no,no,no,yes,no,yes,good,normal,low,very low,very low,good,10,10,9,10
+275,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,primary,other,other,course,other,2,3,0,no,yes,no,no,no,yes,yes,yes,good,high,high,very low,very low,normal,10,12,10,11
+276,Gabriel Pereira,Male,16,Urban,4 or more,Together,5th - 9th,primary,other,other,course,mother,3,1,0,no,no,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,good,7,15,16,16
+277,Gabriel Pereira,Female,17,Urban,4 or more,Together,primary,primary,other,services,course,father,1,2,0,no,yes,no,no,yes,yes,no,no,good,normal,high,very low,low,excellent,4,11,10,11
+278,Gabriel Pereira,Male,17,Urban,4 or more,Together,5th - 9th,secondary,other,other,course,father,2,1,0,no,no,no,no,yes,yes,yes,no,excellent,low,low,very low,very low,bad,2,9,12,13
+279,Gabriel Pereira,Male,22,Urban,4 or more,Together,secondary,primary,services,services,other,mother,1,1,3,no,no,no,no,no,no,yes,yes,excellent,high,very high,very high,very high,very bad,12,7,8,5
+280,Gabriel Pereira,Male,18,Rural,3 or less,Together,secondary,secondary,other,services,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,good,normal,normal,very low,normal,excellent,8,10,9,10
+281,Gabriel Pereira,Male,16,Urban,4 or more,Together,None,5th - 9th,other,other,other,mother,1,1,0,no,no,no,no,no,yes,yes,no,good,normal,low,low,high,excellent,0,11,12,11
+282,Gabriel Pereira,Male,18,Urban,4 or more,Together,secondary,5th - 9th,services,other,course,mother,2,1,0,no,no,no,no,yes,no,yes,no,good,high,very high,low,high,excellent,8,7,8,7
+283,Gabriel Pereira,Male,16,Urban,4 or more,Together,secondary,secondary,at_home,other,reputation,other,3,2,1,yes,yes,no,no,no,yes,yes,no,excellent,normal,normal,very low,normal,bad,4,9,11,10
+284,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,primary,services,services,other,mother,1,1,2,no,no,no,no,no,no,yes,no,normal,low,very high,low,very high,excellent,4,7,8,6
+285,Gabriel Pereira,Male,16,Rural,4 or more,Together,5th - 9th,primary,other,other,course,mother,2,1,0,no,no,no,yes,no,yes,no,no,normal,normal,low,very low,normal,normal,2,14,13,12
+286,Gabriel Pereira,Male,17,Rural,4 or more,Together,5th - 9th,primary,other,other,course,mother,1,1,0,no,no,no,no,no,yes,yes,no,good,high,low,low,high,excellent,0,12,12,13
+287,Gabriel Pereira,Male,17,Urban,3 or less,Together,primary,primary,health,other,course,mother,2,1,1,no,yes,no,yes,yes,yes,yes,no,good,high,high,very low,low,excellent,0,9,10,10
+288,Gabriel Pereira,Female,18,Urban,3 or less,Apart,5th - 9th,primary,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,yes,good,normal,high,very low,normal,excellent,2,12,12,13
+289,Gabriel Pereira,Female,17,Urban,3 or less,Together,higher,5th - 9th,teacher,services,reputation,mother,1,4,0,no,yes,no,yes,yes,yes,yes,no,good,low,normal,very low,very low,good,2,14,15,17
+290,Gabriel Pereira,Female,19,Urban,4 or more,Together,5th - 9th,5th - 9th,services,services,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,excellent,0,10,10,11
+291,Gabriel Pereira,Male,18,Urban,3 or less,Together,5th - 9th,primary,services,other,course,mother,3,2,1,no,no,no,yes,no,no,yes,no,good,high,very high,high,high,excellent,4,11,10,11
+292,Gabriel Pereira,Female,17,Rural,4 or more,Together,higher,5th - 9th,other,other,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,good,normal,high,very low,normal,excellent,2,11,12,14
+293,Gabriel Pereira,Female,18,Urban,3 or less,Together,primary,primary,other,at_home,home,mother,1,3,0,no,yes,no,no,no,yes,no,no,good,high,normal,low,normal,normal,4,11,12,14
+294,Gabriel Pereira,Female,18,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,home,mother,1,2,0,yes,no,no,no,yes,yes,no,no,normal,low,normal,very low,very low,excellent,4,11,11,13
+295,Gabriel Pereira,Male,19,Urban,3 or less,Apart,higher,secondary,services,at_home,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,very low,very low,very low,very bad,4,11,13,14
+296,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,primary,other,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,excellent,low,high,very low,low,good,2,16,16,16
+297,Gabriel Pereira,Male,17,Rural,4 or more,Together,5th - 9th,5th - 9th,other,services,other,mother,2,1,0,no,no,no,no,no,no,no,no,excellent,low,low,very low,very low,good,0,9,10,10
+298,Gabriel Pereira,Female,17,Urban,3 or less,Together,5th - 9th,5th - 9th,services,services,course,father,1,4,0,no,no,no,yes,yes,yes,yes,yes,normal,high,very low,very low,very low,bad,2,10,11,12
+299,Gabriel Pereira,Female,20,Rural,4 or more,Together,5th - 9th,primary,other,other,course,other,2,2,0,no,yes,yes,yes,yes,no,yes,yes,very bad,low,normal,very low,low,bad,8,10,12,12
+300,Gabriel Pereira,Female,18,Urban,4 or more,Together,higher,secondary,services,other,home,father,1,2,0,no,yes,no,no,yes,yes,yes,yes,normal,very low,low,very low,normal,bad,2,15,15,15
+301,Gabriel Pereira,Male,18,Urban,4 or more,Together,higher,secondary,teacher,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,no,good,normal,low,very low,very low,normal,2,10,10,11
+302,Gabriel Pereira,Male,18,Rural,4 or more,Together,secondary,5th - 9th,other,other,course,mother,1,3,0,no,no,no,yes,no,yes,no,no,excellent,normal,low,very low,very low,normal,2,10,11,12
+303,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,secondary,other,other,home,mother,1,3,0,no,no,no,yes,no,yes,no,no,normal,low,normal,very low,very low,good,2,15,12,13
+304,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,5th - 9th,at_home,services,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,normal,very low,very low,normal,0,11,12,13
+305,Gabriel Pereira,Male,17,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,home,father,2,1,0,no,no,no,no,yes,no,yes,no,good,high,high,low,normal,good,8,8,8,9
+306,Gabriel Pereira,Male,18,Rural,3 or less,Apart,secondary,higher,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,good,low,very high,normal,high,very bad,6,15,16,16
+307,Gabriel Pereira,Male,17,Urban,4 or more,Together,secondary,primary,services,other,other,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,excellent,high,high,normal,high,excellent,0,11,11,14
+308,Gabriel Pereira,Female,18,Rural,4 or more,Together,higher,higher,teacher,other,reputation,mother,2,2,0,no,no,no,yes,yes,yes,yes,no,good,normal,high,low,low,good,8,10,11,12
+309,Gabriel Pereira,Male,18,Urban,4 or more,Together,higher,5th - 9th,health,other,reputation,father,1,2,0,no,yes,no,yes,yes,yes,yes,yes,excellent,high,very high,very low,normal,excellent,4,10,12,14
+310,Gabriel Pereira,Female,18,Rural,4 or more,Together,5th - 9th,primary,other,other,reputation,mother,2,2,0,no,yes,no,no,yes,no,yes,yes,good,normal,very high,very low,low,normal,12,8,9,10
+311,Gabriel Pereira,Female,19,Urban,4 or more,Together,secondary,secondary,other,services,home,other,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,very high,normal,normal,excellent,16,11,12,12
+312,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,secondary,other,services,reputation,father,1,4,0,no,yes,no,yes,yes,yes,yes,yes,good,very high,very high,very low,normal,bad,10,16,16,16
+313,Gabriel Pereira,Female,18,Urban,3 or less,Together,primary,primary,other,other,home,mother,2,2,0,no,yes,no,no,no,yes,no,no,good,high,normal,very low,very low,normal,2,13,13,13
+314,Gabriel Pereira,Male,17,Rural,4 or more,Together,primary,5th - 9th,at_home,at_home,home,mother,1,2,0,no,yes,no,yes,no,yes,no,yes,normal,very high,low,low,low,very bad,2,16,17,18
+315,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,primary,other,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,good,low,very high,very low,low,very bad,8,14,14,15
+316,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,higher,at_home,health,reputation,mother,2,2,0,no,yes,no,no,yes,yes,yes,yes,good,normal,normal,very low,very low,very bad,6,15,16,16
+317,Gabriel Pereira,Female,17,Urban,3 or less,Together,5th - 9th,5th - 9th,services,other,course,mother,2,2,0,yes,yes,no,no,yes,yes,yes,yes,good,high,high,low,normal,excellent,6,12,12,12
+318,Gabriel Pereira,Female,18,Rural,4 or more,Apart,secondary,5th - 9th,other,services,home,mother,2,2,0,no,no,no,no,no,no,yes,yes,good,very low,very low,very low,very low,excellent,15,12,9,10
+319,Gabriel Pereira,Male,18,Urban,4 or more,Together,higher,higher,teacher,services,home,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,normal,low,high,very low,high,normal,6,11,12,12
+320,Gabriel Pereira,Female,18,Urban,4 or more,Together,higher,higher,health,health,reputation,father,1,2,1,yes,yes,no,yes,yes,yes,yes,yes,bad,high,high,very low,very low,good,2,14,12,13
+321,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,5th - 9th,other,services,reputation,father,3,3,0,no,yes,no,no,yes,yes,yes,yes,good,low,normal,very low,very low,very bad,8,13,15,15
+322,Gabriel Pereira,Female,19,Rural,4 or more,Together,secondary,5th - 9th,services,services,reputation,father,1,2,1,yes,yes,no,no,yes,no,yes,no,normal,normal,normal,high,normal,normal,0,9,8,10
+323,Gabriel Pereira,Male,18,Urban,3 or less,Together,higher,secondary,teacher,services,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,good,low,normal,very low,low,very bad,0,10,10,10
+324,Gabriel Pereira,Male,18,Urban,4 or more,Together,primary,5th - 9th,at_home,other,home,other,2,1,0,no,no,no,no,no,no,yes,no,normal,high,high,low,high,good,10,10,10,11
+325,Gabriel Pereira,Male,17,Urban,3 or less,Apart,higher,primary,services,other,home,mother,2,1,0,no,no,no,yes,yes,yes,yes,yes,good,very high,high,low,high,excellent,22,11,11,10
+326,Gabriel Pereira,Male,17,Urban,3 or less,Apart,secondary,5th - 9th,teacher,services,home,mother,1,1,0,no,no,no,no,yes,yes,yes,no,good,high,high,normal,high,normal,18,13,13,13
+327,Gabriel Pereira,Female,18,Rural,3 or less,Together,primary,primary,at_home,other,reputation,mother,2,4,0,no,yes,no,yes,yes,yes,no,no,excellent,low,low,very low,very low,normal,2,17,17,18
+328,Gabriel Pereira,Female,18,Urban,4 or more,Together,primary,primary,other,other,home,mother,2,2,0,yes,no,no,yes,yes,yes,yes,no,excellent,high,high,very low,very low,good,0,12,13,13
+329,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,no,excellent,high,very high,very low,low,excellent,12,12,12,14
+330,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,primary,other,other,reputation,mother,2,2,0,no,no,no,yes,yes,yes,yes,yes,good,normal,very low,very low,very low,excellent,10,12,13,14
+331,Gabriel Pereira,Male,17,Urban,4 or more,Together,primary,primary,other,other,reputation,father,1,2,0,no,no,no,no,no,yes,yes,no,good,normal,normal,very low,low,good,0,12,12,12
+332,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,5th - 9th,at_home,at_home,other,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,low,bad,0,18,18,18
+333,Gabriel Pereira,Female,17,Urban,4 or more,Together,primary,primary,services,teacher,reputation,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,normal,0,13,13,14
+334,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,primary,services,services,reputation,mother,1,3,0,no,no,no,yes,yes,yes,yes,no,good,low,high,very low,normal,bad,0,14,15,15
+335,Gabriel Pereira,Male,18,Urban,3 or less,Apart,higher,higher,teacher,teacher,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,normal,very low,very low,bad,0,17,17,17
+336,Gabriel Pereira,Male,18,Urban,4 or more,Together,higher,5th - 9th,teacher,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,low,very low,high,excellent,2,15,16,16
+337,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,secondary,health,services,reputation,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,good,low,low,very low,low,normal,0,17,18,18
+338,Gabriel Pereira,Female,17,Rural,3 or less,Together,secondary,primary,services,other,reputation,mother,2,4,0,no,yes,no,no,yes,yes,no,no,normal,very low,low,very low,very low,normal,0,18,19,19
+339,Gabriel Pereira,Male,18,Rural,3 or less,Together,secondary,5th - 9th,services,other,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,low,very low,very low,good,0,14,15,15
+340,Gabriel Pereira,Male,17,Urban,4 or more,Together,secondary,secondary,health,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,good,high,normal,very low,normal,excellent,0,14,15,15
+341,Gabriel Pereira,Female,19,Urban,4 or more,Together,higher,higher,health,other,reputation,other,2,2,0,no,yes,no,yes,yes,yes,yes,no,bad,normal,high,low,normal,bad,2,14,13,13
+342,Gabriel Pereira,Female,18,Urban,3 or less,Together,higher,secondary,other,other,home,other,2,2,0,no,yes,no,no,yes,yes,yes,yes,good,high,very high,very low,low,bad,0,13,14,14
+343,Gabriel Pereira,Female,18,Urban,4 or more,Together,higher,secondary,other,other,reputation,father,1,4,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,normal,0,16,17,17
+344,Gabriel Pereira,Male,18,Urban,3 or less,Together,higher,higher,teacher,teacher,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,yes,very bad,high,low,low,low,very bad,0,18,18,17
+345,Gabriel Pereira,Female,18,Urban,3 or less,Apart,higher,higher,health,other,home,mother,1,2,0,no,yes,yes,no,yes,yes,yes,yes,good,low,high,very low,very low,good,0,14,15,15
+346,Gabriel Pereira,Male,17,Urban,3 or less,Together,higher,higher,other,teacher,home,father,2,1,0,no,no,no,no,yes,yes,yes,no,good,very low,very low,low,low,excellent,0,12,13,13
+347,Gabriel Pereira,Female,17,Rural,4 or more,Together,higher,higher,services,services,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,high,very low,very low,excellent,0,7,7,8
+348,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,5th - 9th,other,other,reputation,mother,2,3,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,normal,0,16,16,16
+349,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,5th - 9th,health,health,reputation,father,1,4,0,no,yes,no,yes,no,yes,yes,no,excellent,low,low,very low,low,excellent,0,18,18,18
+350,Gabriel Pereira,Male,19,Rural,3 or less,Together,5th - 9th,primary,at_home,services,course,mother,2,3,1,no,no,no,yes,yes,yes,yes,yes,good,normal,very low,very low,very low,excellent,0,9,10,11
+351,Gabriel Pereira,Male,20,Urban,4 or more,Apart,secondary,5th - 9th,services,other,course,other,1,1,2,no,no,no,yes,yes,yes,no,no,excellent,very high,normal,very low,very low,excellent,0,14,15,15
+352,Gabriel Pereira,Male,19,Rural,4 or more,Together,secondary,secondary,other,services,reputation,father,1,2,0,no,no,no,yes,yes,yes,no,yes,good,very high,normal,very low,low,excellent,0,10,10,11
+353,Gabriel Pereira,Female,18,Urban,4 or more,Together,primary,higher,other,teacher,home,mother,1,2,0,yes,yes,no,no,no,yes,no,yes,normal,high,high,very low,low,excellent,2,10,10,11
+354,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,primary,services,other,course,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,low,very bad,2,12,12,15
+355,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,secondary,other,other,course,father,2,2,0,no,no,no,yes,yes,yes,yes,yes,good,low,very low,very low,very low,normal,2,11,12,14
+356,Gabriel Pereira,Female,17,Rural,4 or more,Together,higher,higher,teacher,teacher,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,good,high,high,very low,very low,excellent,2,15,16,17
+357,Gabriel Pereira,Female,18,Urban,4 or more,Together,higher,secondary,other,other,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,high,very low,very low,excellent,2,14,15,17
+358,Gabriel Pereira,Female,18,Urban,3 or less,Together,higher,secondary,health,services,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,normal,low,high,very low,high,very bad,8,12,12,15
+359,Gabriel Pereira,Female,17,Rural,4 or more,Together,secondary,higher,at_home,services,course,father,1,3,0,no,yes,no,yes,no,yes,yes,no,good,normal,high,low,very high,excellent,2,15,15,17
+360,Gabriel Pereira,Female,18,Urban,4 or more,Together,secondary,secondary,at_home,other,course,father,1,2,0,no,yes,no,no,yes,yes,yes,no,good,very low,high,very low,very low,normal,8,11,12,14
+361,Gabriel Pereira,Male,19,Urban,4 or more,Together,higher,5th - 9th,health,other,course,mother,2,2,0,no,yes,no,yes,yes,yes,yes,yes,excellent,high,high,very low,very low,very bad,9,11,10,10
+362,Gabriel Pereira,Female,18,Urban,4 or more,Together,higher,higher,teacher,other,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,high,high,normal,normal,excellent,0,12,11,13
+363,Gabriel Pereira,Female,18,Urban,4 or more,Together,secondary,higher,other,other,course,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,excellent,high,high,very low,very low,very bad,4,11,12,14
+364,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,higher,health,health,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,excellent,normal,high,very low,low,excellent,2,14,15,17
+365,Gabriel Pereira,Female,17,Urban,4 or more,Apart,higher,secondary,services,services,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,excellent,low,low,very low,low,excellent,14,15,14,17
+366,Gabriel Pereira,Female,17,Urban,3 or less,Apart,secondary,secondary,services,other,home,mother,1,2,0,yes,yes,no,no,yes,yes,yes,no,excellent,normal,normal,very low,very low,excellent,0,12,12,13
+367,Gabriel Pereira,Female,17,Urban,3 or less,Together,5th - 9th,primary,other,other,home,father,1,2,0,no,no,no,yes,yes,yes,yes,no,good,low,normal,low,low,bad,2,11,12,14
+368,Gabriel Pereira,Male,18,Urban,3 or less,Together,higher,higher,other,other,reputation,father,1,1,0,no,yes,no,no,yes,yes,yes,no,good,low,very high,normal,high,excellent,2,8,9,11
+369,Gabriel Pereira,Female,19,Urban,4 or more,Together,primary,primary,other,other,course,other,3,3,0,no,no,no,yes,yes,no,no,yes,very bad,very high,very high,high,normal,excellent,12,10,10,11
+370,Gabriel Pereira,Female,19,Urban,3 or less,Apart,primary,primary,other,other,course,other,3,2,2,no,yes,no,no,no,yes,yes,yes,excellent,normal,high,very low,very low,good,2,8,8,9
+371,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,very high,low,high,excellent,2,10,10,10
+372,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,1,2,0,no,yes,no,no,yes,yes,no,yes,good,low,low,very low,very low,normal,4,14,13,13
+373,Gabriel Pereira,Female,17,Rural,3 or less,Together,5th - 9th,5th - 9th,services,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,normal,normal,low,low,low,normal,0,11,11,10
+374,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,primary,services,services,course,father,1,3,0,no,yes,no,no,no,yes,yes,no,normal,high,normal,low,normal,excellent,0,17,18,17
+375,Gabriel Pereira,Female,17,Urban,3 or less,Together,None,5th - 9th,at_home,at_home,home,father,2,3,0,no,no,no,no,yes,yes,yes,no,normal,normal,normal,low,normal,bad,0,14,14,15
+376,Gabriel Pereira,Female,18,Urban,4 or more,Together,primary,primary,other,other,home,mother,2,3,0,no,no,no,yes,yes,yes,yes,no,good,very high,very high,very low,low,bad,0,14,14,14
+377,Gabriel Pereira,Male,18,Urban,4 or more,Together,higher,higher,other,other,course,mother,1,3,0,no,no,no,yes,yes,yes,yes,no,good,normal,normal,low,low,normal,0,13,14,13
+378,Gabriel Pereira,Male,17,Urban,4 or more,Together,secondary,secondary,other,services,reputation,mother,1,1,0,no,no,no,yes,no,yes,yes,no,good,normal,very high,normal,very high,excellent,0,17,18,17
+379,Gabriel Pereira,Male,17,Rural,4 or more,Together,5th - 9th,5th - 9th,services,other,course,mother,4,1,0,no,yes,no,no,yes,yes,yes,no,good,high,very high,very high,very high,good,2,11,10,10
+380,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,higher,teacher,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,high,very low,normal,good,0,13,12,13
+381,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,higher,teacher,teacher,course,mother,2,3,0,no,yes,no,no,no,yes,yes,yes,good,normal,normal,very low,low,good,4,15,14,15
+382,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,secondary,at_home,other,course,mother,1,1,0,no,yes,yes,yes,yes,yes,yes,no,good,low,very high,low,very high,excellent,2,11,12,11
+383,Gabriel Pereira,Male,18,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,course,mother,1,4,0,no,yes,yes,yes,yes,yes,yes,no,good,very high,very high,low,high,excellent,0,11,11,12
+384,Gabriel Pereira,Male,19,Rural,4 or more,Together,secondary,5th - 9th,at_home,services,home,other,1,1,0,no,yes,no,no,no,yes,no,yes,excellent,normal,high,low,low,excellent,0,11,10,10
+385,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,5th - 9th,at_home,other,course,mother,4,2,0,no,no,no,yes,yes,yes,no,yes,good,low,very high,very low,very low,bad,2,10,9,10
+386,Gabriel Pereira,Female,17,Rural,4 or more,Together,5th - 9th,higher,at_home,other,course,father,1,3,0,no,yes,no,no,yes,yes,yes,yes,good,high,normal,very low,very low,excellent,0,15,15,15
+387,Gabriel Pereira,Male,18,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,reputation,mother,1,1,0,no,no,no,no,no,yes,yes,no,excellent,high,low,very low,low,excellent,6,15,14,15
+388,Gabriel Pereira,Female,18,Urban,4 or more,Together,secondary,secondary,services,services,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,excellent,normal,high,very low,very low,good,8,10,11,12
+389,Gabriel Pereira,Female,18,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,home,other,1,2,0,no,no,no,yes,no,yes,yes,yes,good,normal,normal,very low,very low,bad,0,10,9,12
+390,Gabriel Pereira,Female,18,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,course,mother,2,4,0,no,no,no,yes,yes,yes,no,no,good,high,high,very low,very low,good,6,14,13,14
+391,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,higher,services,other,course,mother,1,3,0,no,no,no,no,yes,yes,yes,no,good,high,very high,very low,normal,excellent,8,11,13,14
+392,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,5th - 9th,other,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,good,normal,low,low,normal,bad,0,12,13,15
+393,Gabriel Pereira,Female,18,Urban,3 or less,Together,secondary,secondary,services,services,home,mother,1,4,0,no,yes,no,no,yes,yes,yes,no,excellent,normal,normal,very low,very low,very bad,4,14,14,15
+394,Gabriel Pereira,Female,17,Rural,4 or more,Apart,secondary,5th - 9th,other,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,low,normal,bad,0,14,14,16
+395,Gabriel Pereira,Male,18,Urban,4 or more,Together,higher,higher,teacher,services,home,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,low,low,bad,0,12,12,13
+396,Gabriel Pereira,Male,18,Urban,3 or less,Together,secondary,higher,services,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,good,normal,normal,very low,normal,excellent,6,16,16,17
+397,Gabriel Pereira,Female,17,Urban,4 or more,Apart,5th - 9th,5th - 9th,at_home,at_home,home,father,1,2,0,no,yes,no,no,yes,yes,yes,yes,normal,normal,very low,very low,low,good,18,10,12,14
+398,Gabriel Pereira,Female,18,Urban,4 or more,Together,5th - 9th,secondary,at_home,other,course,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,low,normal,0,11,12,14
+399,Gabriel Pereira,Female,18,Urban,4 or more,Together,secondary,5th - 9th,other,services,other,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,excellent,high,normal,low,normal,very bad,4,14,16,17
+400,Gabriel Pereira,Male,18,Rural,4 or more,Together,higher,secondary,teacher,services,course,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,excellent,normal,low,very low,low,good,4,15,14,17
+401,Gabriel Pereira,Male,18,Urban,4 or more,Together,higher,secondary,teacher,other,course,mother,1,3,0,no,yes,no,no,yes,yes,yes,yes,excellent,high,very high,low,normal,excellent,0,14,13,14
+402,Gabriel Pereira,Female,17,Urban,4 or more,Together,higher,secondary,health,other,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,good,high,normal,very low,normal,good,0,11,12,13
+403,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,primary,services,other,course,mother,2,2,0,no,yes,no,yes,yes,yes,yes,yes,good,normal,high,low,low,very bad,10,12,15,15
+404,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,primary,services,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,very high,low,high,good,4,12,16,16
+405,Gabriel Pereira,Female,19,Urban,3 or less,Apart,5th - 9th,secondary,at_home,other,home,other,2,1,1,no,no,no,no,yes,no,yes,no,bad,low,normal,normal,high,excellent,16,10,11,11
+406,Gabriel Pereira,Female,17,Urban,4 or more,Together,secondary,primary,other,at_home,home,mother,1,1,1,no,yes,yes,no,yes,yes,yes,yes,good,very low,low,very low,very low,normal,6,10,13,13
+407,Gabriel Pereira,Female,21,Urban,3 or less,Together,higher,higher,other,other,reputation,other,1,3,2,no,no,yes,yes,yes,yes,yes,no,normal,normal,low,very low,very low,excellent,0,9,12,12
+408,Gabriel Pereira,Male,18,Urban,3 or less,Together,5th - 9th,5th - 9th,services,services,reputation,mother,1,2,0,no,yes,no,yes,no,no,yes,no,good,high,high,very low,normal,normal,11,9,11,12
+409,Gabriel Pereira,Male,18,Urban,3 or less,Apart,secondary,higher,other,other,reputation,other,1,2,0,no,no,no,yes,yes,yes,yes,yes,good,normal,very high,very low,high,bad,9,13,14,15
+410,Gabriel Pereira,Female,17,Urban,4 or more,Together,5th - 9th,5th - 9th,services,services,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,high,very low,normal,good,0,13,17,17
+411,Gabriel Pereira,Male,17,Urban,3 or less,Apart,higher,higher,health,other,reputation,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,good,high,low,very low,low,good,2,12,15,15
+412,Gabriel Pereira,Female,18,Urban,3 or less,Together,higher,5th - 9th,teacher,other,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,good,low,low,very low,very low,normal,0,14,17,17
+413,Gabriel Pereira,Male,21,Rural,3 or less,Together,primary,primary,at_home,other,course,other,2,2,2,no,yes,no,yes,yes,no,yes,yes,excellent,normal,normal,very high,low,good,21,9,10,10
+414,Gabriel Pereira,Female,20,Rural,4 or more,Together,primary,primary,other,other,reputation,other,2,3,0,no,no,no,no,yes,yes,yes,yes,normal,low,low,very low,normal,normal,8,11,15,15
+415,Gabriel Pereira,Female,19,Urban,4 or more,Together,higher,higher,teacher,other,home,other,1,1,1,no,yes,no,no,yes,yes,yes,yes,normal,low,very high,high,high,excellent,5,9,10,11
+416,Gabriel Pereira,Male,17,Urban,3 or less,Apart,secondary,5th - 9th,other,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,high,high,very low,low,excellent,10,16,18,18
+417,Gabriel Pereira,Female,18,Urban,4 or more,Together,secondary,5th - 9th,at_home,other,reputation,father,1,3,0,no,yes,no,no,yes,yes,yes,yes,good,normal,high,very low,low,bad,5,14,17,17
+418,Gabriel Pereira,Male,18,Rural,4 or more,Together,5th - 9th,secondary,other,services,reputation,father,1,1,0,no,no,no,no,yes,yes,yes,no,normal,very low,normal,high,very high,good,13,13,14,14
+419,Gabriel Pereira,Male,19,Urban,4 or more,Together,5th - 9th,primary,other,other,reputation,mother,1,1,0,no,no,no,no,yes,yes,yes,no,excellent,normal,high,very low,high,good,10,7,11,11
+420,Gabriel Pereira,Female,18,Urban,3 or less,Apart,5th - 9th,5th - 9th,services,other,reputation,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,good,very low,high,very low,normal,good,10,14,17,17
+421,Gabriel Pereira,Female,20,Urban,4 or more,Together,primary,None,other,other,reputation,mother,2,1,1,yes,no,no,no,yes,yes,yes,yes,excellent,normal,very low,very low,very low,excellent,5,8,10,10
+422,Gabriel Pereira,Female,18,Urban,4 or more,Together,secondary,5th - 9th,services,other,home,mother,1,2,0,no,yes,no,yes,no,yes,yes,yes,normal,very low,low,very low,low,very bad,4,10,13,13
+423,Mousinho da Silveira,Female,16,Urban,4 or more,Together,primary,secondary,at_home,other,other,father,2,1,0,no,yes,no,no,yes,no,yes,yes,good,normal,normal,very low,normal,excellent,11,10,11,11
+424,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,good,high,high,very low,very low,excellent,0,12,12,12
+425,Mousinho da Silveira,Female,15,Rural,4 or more,Together,primary,primary,at_home,services,other,mother,1,1,1,no,yes,no,no,yes,yes,no,yes,good,very low,normal,very low,very low,bad,6,10,10,10
+426,Mousinho da Silveira,Female,15,Rural,4 or more,Together,secondary,secondary,at_home,other,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,excellent,high,high,low,normal,excellent,4,10,10,11
+427,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,secondary,at_home,services,course,mother,2,2,0,no,no,no,no,yes,yes,no,no,good,very high,low,very low,low,excellent,0,16,17,17
+428,Mousinho da Silveira,Female,15,Rural,3 or less,Together,5th - 9th,primary,at_home,other,home,mother,2,1,0,no,no,no,no,yes,no,no,no,very bad,normal,high,very low,very low,very bad,0,6,8,9
+429,Mousinho da Silveira,Male,16,Rural,3 or less,Apart,higher,higher,at_home,other,home,mother,1,2,0,no,yes,no,no,yes,yes,no,no,excellent,normal,low,very low,normal,bad,5,10,11,11
+430,Mousinho da Silveira,Male,16,Urban,4 or more,Apart,primary,5th - 9th,other,other,other,mother,1,3,0,yes,no,no,no,yes,yes,yes,no,good,high,normal,very low,very low,excellent,0,10,11,11
+431,Mousinho da Silveira,Female,17,Rural,4 or more,Together,secondary,5th - 9th,at_home,other,course,father,1,2,1,no,no,no,no,yes,yes,no,yes,good,very high,high,very low,low,excellent,0,10,10,10
+432,Mousinho da Silveira,Female,17,Rural,4 or more,Together,primary,primary,other,other,other,father,1,1,1,no,yes,no,no,no,no,yes,no,excellent,high,high,low,low,excellent,0,6,6,7
+433,Mousinho da Silveira,Female,15,Rural,4 or more,Together,higher,higher,teacher,other,course,mother,2,1,0,no,no,no,no,yes,yes,yes,yes,very bad,very high,very low,normal,very high,excellent,0,13,14,14
+434,Mousinho da Silveira,Female,16,Urban,3 or less,Apart,5th - 9th,5th - 9th,at_home,other,reputation,mother,2,4,0,no,no,no,yes,no,no,no,yes,very bad,low,very low,very low,very low,very bad,4,10,9,11
+435,Mousinho da Silveira,Female,15,Rural,3 or less,Together,primary,primary,at_home,services,reputation,father,2,2,0,no,yes,no,no,yes,yes,yes,no,excellent,high,normal,very low,low,good,0,10,10,10
+436,Mousinho da Silveira,Female,15,Rural,3 or less,Together,primary,primary,other,services,course,mother,2,1,1,no,yes,no,no,yes,yes,yes,yes,good,high,normal,very low,low,bad,4,6,7,8
+437,Mousinho da Silveira,Female,16,Rural,4 or more,Together,None,5th - 9th,other,other,other,mother,2,1,0,no,yes,no,yes,yes,yes,no,no,normal,low,normal,very low,low,bad,0,12,11,12
+438,Mousinho da Silveira,Female,17,Rural,4 or more,Together,5th - 9th,secondary,other,other,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,excellent,very high,very high,very low,normal,normal,2,10,11,12
+439,Mousinho da Silveira,Female,15,Rural,4 or more,Together,secondary,secondary,other,services,course,father,2,1,0,no,no,no,no,no,yes,yes,no,good,very low,normal,very low,very low,good,0,14,16,16
+440,Mousinho da Silveira,Male,16,Urban,4 or more,Together,primary,primary,at_home,services,home,mother,2,2,0,no,yes,no,yes,yes,yes,no,yes,excellent,high,very high,high,very high,normal,0,7,0,0
+441,Mousinho da Silveira,Male,17,Urban,4 or more,Together,primary,primary,other,other,home,mother,1,2,0,no,no,yes,no,no,yes,yes,no,good,high,normal,low,high,excellent,4,8,9,9
+442,Mousinho da Silveira,Male,15,Rural,3 or less,Together,higher,primary,health,services,reputation,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,high,very low,low,bad,0,12,13,14
+443,Mousinho da Silveira,Male,15,Rural,3 or less,Together,higher,primary,health,services,reputation,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,high,very low,low,bad,7,7,9,8
+444,Mousinho da Silveira,Male,16,Rural,4 or more,Together,secondary,higher,other,health,other,mother,3,2,0,no,no,no,no,no,yes,no,no,normal,high,very high,very low,low,excellent,4,9,10,11
+445,Mousinho da Silveira,Male,15,Rural,4 or more,Together,primary,primary,other,other,course,mother,4,2,0,no,yes,no,yes,yes,yes,no,yes,excellent,high,very high,low,high,good,8,7,9,9
+446,Mousinho da Silveira,Male,15,Urban,3 or less,Together,secondary,secondary,at_home,at_home,reputation,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,excellent,0,11,11,11
+447,Mousinho da Silveira,Male,17,Rural,4 or more,Together,5th - 9th,primary,other,other,other,mother,3,1,0,no,no,no,yes,yes,no,no,yes,excellent,very high,very high,very high,very high,normal,8,8,10,9
+448,Mousinho da Silveira,Female,16,Rural,4 or more,Together,higher,higher,teacher,teacher,course,mother,2,3,0,no,no,no,yes,yes,yes,yes,yes,good,low,low,very low,very low,good,6,16,16,17
+449,Mousinho da Silveira,Female,15,Rural,4 or more,Together,primary,5th - 9th,other,services,course,mother,2,1,0,no,no,no,no,yes,yes,no,no,excellent,very low,low,very low,very low,very bad,3,11,13,13
+450,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,secondary,other,services,course,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,good,very high,high,very low,low,very bad,2,15,15,15
+451,Mousinho da Silveira,Male,16,Rural,4 or more,Together,primary,5th - 9th,other,other,course,father,2,2,0,no,no,no,no,yes,yes,no,no,good,normal,normal,very low,very low,excellent,0,10,11,11
+452,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,good,high,very high,very low,very low,good,4,9,10,11
+453,Mousinho da Silveira,Female,16,Urban,4 or more,Together,primary,5th - 9th,other,services,course,mother,1,3,1,no,yes,no,no,yes,yes,no,no,very bad,normal,low,very low,low,good,0,10,8,8
+454,Mousinho da Silveira,Female,16,Urban,4 or more,Together,primary,5th - 9th,other,services,course,mother,1,3,1,no,yes,no,no,yes,yes,no,no,very bad,normal,low,very low,low,good,3,9,8,8
+455,Mousinho da Silveira,Female,15,Urban,4 or more,Together,5th - 9th,primary,at_home,other,home,mother,1,2,0,yes,yes,no,no,no,yes,yes,no,good,high,low,normal,normal,bad,0,9,10,9
+456,Mousinho da Silveira,Female,16,Urban,4 or more,Together,primary,primary,at_home,other,course,father,1,2,0,no,yes,no,no,no,yes,no,yes,excellent,high,normal,low,very low,bad,0,13,14,15
+457,Mousinho da Silveira,Male,17,Rural,3 or less,Together,primary,5th - 9th,at_home,services,reputation,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,excellent,very high,very high,very high,very high,normal,4,10,11,11
+458,Mousinho da Silveira,Female,16,Rural,4 or more,Together,primary,primary,other,other,home,father,4,4,0,no,yes,no,no,no,yes,yes,no,good,normal,low,very low,very low,very bad,0,13,10,13
+459,Mousinho da Silveira,Female,16,Rural,4 or more,Together,primary,primary,at_home,other,other,father,4,3,0,yes,yes,no,no,yes,yes,no,no,good,high,normal,very low,very low,excellent,2,10,9,10
+460,Mousinho da Silveira,Female,15,Rural,4 or more,Together,primary,primary,at_home,other,home,father,2,2,0,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,very low,very low,bad,1,11,10,11
+461,Mousinho da Silveira,Female,16,Rural,4 or more,Together,primary,primary,at_home,other,other,mother,2,1,0,no,no,no,yes,yes,yes,yes,yes,good,low,low,high,normal,bad,0,13,12,14
+462,Mousinho da Silveira,Female,15,Rural,4 or more,Together,primary,primary,at_home,at_home,course,father,3,2,0,no,yes,no,no,yes,yes,no,no,good,low,very low,very low,low,bad,0,13,14,14
+463,Mousinho da Silveira,Female,15,Rural,3 or less,Together,5th - 9th,5th - 9th,other,other,other,father,1,3,0,yes,yes,no,no,yes,yes,no,no,good,high,normal,low,low,excellent,2,14,11,12
+464,Mousinho da Silveira,Male,16,Rural,4 or more,Together,primary,primary,at_home,other,other,father,2,1,0,no,no,no,yes,yes,yes,no,no,normal,high,high,normal,high,excellent,6,11,11,11
+465,Mousinho da Silveira,Female,18,Urban,4 or more,Together,primary,5th - 9th,other,other,course,father,1,2,1,no,yes,no,yes,yes,yes,yes,yes,normal,high,high,low,normal,excellent,9,9,8,8
+466,Mousinho da Silveira,Male,15,Urban,4 or more,Together,secondary,primary,other,services,home,mother,2,1,0,no,yes,no,no,yes,yes,no,no,normal,low,normal,very low,normal,good,0,10,9,11
+467,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,5th - 9th,other,services,course,father,3,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,high,very low,very low,bad,1,14,13,14
+468,Mousinho da Silveira,Male,15,Urban,4 or more,Together,5th - 9th,5th - 9th,health,other,reputation,mother,3,1,0,no,no,no,no,yes,yes,no,no,good,normal,normal,very low,low,good,1,13,12,13
+469,Mousinho da Silveira,Male,16,Urban,4 or more,Together,higher,higher,other,teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,no,yes,good,normal,very low,very low,very low,normal,0,13,12,13
+470,Mousinho da Silveira,Female,15,Rural,4 or more,Together,secondary,secondary,services,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,good,very high,high,very low,very low,very bad,4,13,12,12
+471,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,course,mother,2,2,1,no,yes,no,yes,no,yes,no,no,good,high,high,low,normal,excellent,2,12,11,12
+472,Mousinho da Silveira,Female,16,Rural,3 or less,Together,5th - 9th,5th - 9th,other,other,home,father,3,1,0,no,yes,no,yes,yes,yes,no,yes,good,normal,low,very low,very low,good,0,14,14,16
+473,Mousinho da Silveira,Male,16,Urban,3 or less,Together,5th - 9th,primary,at_home,services,course,mother,2,1,0,no,yes,no,yes,yes,yes,yes,no,bad,high,normal,low,normal,good,4,10,8,10
+474,Mousinho da Silveira,Male,15,Rural,3 or less,Together,primary,secondary,at_home,other,reputation,father,3,1,0,no,yes,no,yes,yes,yes,yes,no,good,low,high,normal,very high,normal,2,10,11,11
+475,Mousinho da Silveira,Female,15,Urban,4 or more,Together,5th - 9th,5th - 9th,other,services,course,mother,2,3,0,no,yes,no,yes,yes,yes,no,no,excellent,normal,low,very low,very low,good,0,12,13,14
+476,Mousinho da Silveira,Female,16,Rural,3 or less,Together,5th - 9th,primary,other,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,yes,excellent,high,normal,very low,very low,excellent,2,10,8,8
+477,Mousinho da Silveira,Male,15,Urban,4 or more,Together,secondary,secondary,services,services,course,father,2,1,0,no,yes,no,yes,no,yes,yes,no,good,normal,normal,low,high,normal,11,12,10,11
+478,Mousinho da Silveira,Female,16,Rural,4 or more,Together,primary,primary,at_home,other,course,father,2,2,3,yes,yes,no,no,yes,yes,no,no,normal,high,normal,very low,very low,very bad,0,7,7,8
+479,Mousinho da Silveira,Female,17,Urban,4 or more,Together,5th - 9th,5th - 9th,other,at_home,course,mother,1,1,0,no,yes,no,yes,yes,no,no,no,good,very high,normal,very low,very low,excellent,4,9,9,10
+480,Mousinho da Silveira,Female,19,Urban,4 or more,Together,5th - 9th,secondary,at_home,services,course,other,1,1,1,no,no,no,no,yes,no,yes,yes,good,high,high,very low,very low,bad,0,9,9,10
+481,Mousinho da Silveira,Female,17,Rural,4 or more,Together,5th - 9th,primary,at_home,other,course,mother,3,1,0,no,yes,no,yes,yes,no,no,yes,excellent,very high,normal,very low,very low,normal,2,9,10,11
+482,Mousinho da Silveira,Female,15,Rural,3 or less,Together,primary,primary,at_home,other,course,mother,2,1,0,no,yes,no,no,yes,no,no,yes,excellent,low,very low,very low,normal,good,0,9,10,9
+483,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,course,father,3,2,0,no,yes,no,no,yes,no,yes,no,normal,high,very high,very low,low,very bad,1,9,10,11
+484,Mousinho da Silveira,Female,16,Urban,3 or less,Apart,5th - 9th,5th - 9th,other,other,home,mother,1,1,0,no,yes,no,no,yes,no,no,no,good,normal,high,very low,low,very bad,6,7,7,8
+485,Mousinho da Silveira,Female,17,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,course,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,very high,very low,low,good,0,11,10,11
+486,Mousinho da Silveira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,other,services,course,father,1,1,1,no,yes,yes,yes,no,yes,yes,no,good,high,normal,very low,high,normal,1,9,10,10
+487,Mousinho da Silveira,Female,18,Rural,3 or less,Apart,secondary,5th - 9th,other,other,course,other,2,3,2,no,yes,no,no,no,no,no,yes,normal,normal,low,very low,very low,bad,6,7,9,10
+488,Mousinho da Silveira,Female,19,Urban,4 or more,Together,primary,primary,at_home,services,course,mother,1,3,1,no,no,no,yes,yes,no,no,yes,excellent,normal,very low,very low,very low,normal,6,7,9,9
+489,Mousinho da Silveira,Male,18,Rural,4 or more,Together,primary,primary,other,other,home,mother,2,1,1,no,no,no,yes,yes,no,yes,no,good,high,normal,normal,high,good,0,8,9,10
+490,Mousinho da Silveira,Female,18,Rural,4 or more,Together,primary,primary,at_home,at_home,course,mother,2,1,1,no,no,no,no,no,no,yes,yes,normal,low,normal,very low,very low,bad,4,9,11,10
+491,Mousinho da Silveira,Female,19,Urban,4 or more,Together,primary,primary,other,other,course,other,2,2,1,no,yes,no,no,yes,yes,yes,yes,very bad,very low,high,high,very low,very bad,12,7,8,9
+492,Mousinho da Silveira,Female,16,Rural,4 or more,Apart,5th - 9th,5th - 9th,health,other,course,mother,1,2,0,no,no,no,no,no,yes,no,yes,normal,normal,low,very low,very low,normal,2,8,10,10
+493,Mousinho da Silveira,Female,17,Urban,4 or more,Together,None,primary,other,at_home,course,father,2,1,0,no,no,no,yes,no,yes,no,no,bad,high,high,normal,very high,excellent,5,9,9,10
+494,Mousinho da Silveira,Female,16,Rural,3 or less,Together,primary,5th - 9th,at_home,other,course,mother,1,2,0,no,no,no,yes,yes,no,yes,no,good,high,very high,very low,normal,normal,0,8,9,9
+495,Mousinho da Silveira,Female,16,Urban,4 or more,Together,secondary,secondary,other,other,reputation,mother,1,1,0,no,no,no,yes,yes,no,yes,yes,good,very high,high,very low,very low,good,0,14,13,13
+496,Mousinho da Silveira,Female,16,Rural,3 or less,Together,primary,primary,services,services,home,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,good,high,high,low,low,good,2,14,14,14
+497,Mousinho da Silveira,Male,17,Urban,4 or more,Together,secondary,secondary,services,at_home,course,mother,2,4,1,no,yes,yes,yes,yes,yes,no,no,excellent,high,very high,normal,high,excellent,0,10,11,10
+498,Mousinho da Silveira,Female,16,Urban,4 or more,Together,5th - 9th,primary,other,services,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,very bad,0,14,13,14
+499,Mousinho da Silveira,Female,16,Urban,4 or more,Together,5th - 9th,5th - 9th,services,other,course,mother,1,1,0,no,yes,yes,yes,yes,yes,no,yes,good,low,very high,very low,low,excellent,0,17,16,16
+500,Mousinho da Silveira,Male,17,Urban,4 or more,Together,primary,5th - 9th,other,other,course,father,1,1,1,no,yes,no,yes,yes,no,yes,yes,excellent,normal,very high,very high,very high,very bad,12,6,7,7
+501,Mousinho da Silveira,Male,16,Urban,3 or less,Together,higher,secondary,other,other,course,father,1,1,0,no,no,no,yes,yes,yes,yes,no,good,low,very high,very low,very high,excellent,8,14,12,13
+502,Mousinho da Silveira,Male,17,Rural,3 or less,Together,5th - 9th,5th - 9th,services,services,other,mother,3,4,1,no,yes,no,no,yes,yes,no,no,very bad,normal,very high,normal,very high,normal,2,10,8,9
+503,Mousinho da Silveira,Female,16,Urban,4 or more,Together,primary,primary,other,other,course,other,1,4,0,yes,yes,no,yes,yes,yes,yes,no,bad,low,very low,very low,very low,excellent,0,14,14,14
+504,Mousinho da Silveira,Female,19,Urban,3 or less,Together,5th - 9th,5th - 9th,other,other,home,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,excellent,high,very high,very low,very low,very bad,0,12,13,13
+505,Mousinho da Silveira,Female,17,Rural,4 or more,Together,primary,primary,at_home,other,reputation,mother,2,1,0,no,yes,no,yes,no,yes,yes,yes,good,high,very high,very low,low,excellent,0,11,11,11
+506,Mousinho da Silveira,Female,20,Urban,4 or more,Together,secondary,secondary,at_home,services,other,mother,2,2,1,no,no,no,yes,yes,yes,yes,yes,normal,normal,high,low,high,normal,8,11,9,10
+507,Mousinho da Silveira,Female,17,Urban,3 or less,Together,primary,primary,other,services,course,father,1,3,0,no,yes,no,no,yes,yes,no,yes,good,normal,normal,very low,very low,normal,0,11,11,10
+508,Mousinho da Silveira,Male,17,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,3,1,1,no,yes,no,no,no,yes,yes,no,good,high,very high,very low,low,excellent,0,10,9,9
+509,Mousinho da Silveira,Female,16,Rural,3 or less,Together,primary,primary,at_home,other,course,father,3,2,0,no,yes,no,no,yes,yes,no,no,excellent,normal,low,very low,very low,very bad,0,16,17,18
+510,Mousinho da Silveira,Female,17,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,no,no,excellent,normal,low,very low,very low,very bad,0,15,17,17
+511,Mousinho da Silveira,Female,17,Urban,4 or more,Apart,primary,None,other,other,other,mother,2,2,0,no,no,no,no,yes,yes,yes,yes,good,high,very high,very low,very low,good,1,11,9,10
+512,Mousinho da Silveira,Female,18,Rural,4 or more,Together,primary,primary,at_home,other,other,mother,1,2,1,no,yes,no,no,yes,yes,yes,yes,good,normal,low,very low,very low,excellent,9,7,7,7
+513,Mousinho da Silveira,Female,16,Urban,4 or more,Together,secondary,primary,other,other,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,normal,very low,normal,very low,normal,very bad,0,8,6,8
+514,Mousinho da Silveira,Female,16,Urban,4 or more,Together,secondary,5th - 9th,services,at_home,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,normal,very low,normal,very low,high,normal,2,7,6,7
+515,Mousinho da Silveira,Female,18,Urban,3 or less,Together,primary,primary,other,at_home,reputation,mother,2,2,0,yes,no,no,no,yes,yes,no,no,bad,normal,very high,very low,high,normal,8,9,8,10
+516,Mousinho da Silveira,Female,16,Rural,4 or more,Together,higher,higher,health,teacher,reputation,father,1,2,0,no,no,no,yes,no,yes,yes,yes,good,normal,normal,low,normal,bad,0,14,16,16
+517,Mousinho da Silveira,Female,16,Rural,3 or less,Together,primary,5th - 9th,other,other,reputation,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,excellent,high,very high,very low,high,bad,0,14,14,15
+518,Mousinho da Silveira,Female,18,Urban,4 or more,Apart,5th - 9th,higher,other,services,reputation,father,1,2,1,no,yes,no,no,yes,yes,yes,no,bad,normal,low,very low,normal,very bad,8,8,5,8
+519,Mousinho da Silveira,Male,16,Rural,4 or more,Together,5th - 9th,primary,other,services,reputation,mother,2,2,0,no,no,no,yes,yes,yes,yes,no,excellent,low,very low,very low,very low,bad,0,8,7,0
+520,Mousinho da Silveira,Female,16,Urban,3 or less,Together,primary,primary,at_home,other,other,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,low,very low,normal,excellent,6,6,8,8
+521,Mousinho da Silveira,Female,16,Rural,4 or more,Together,5th - 9th,secondary,at_home,services,other,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,normal,normal,normal,very low,very low,bad,0,8,10,10
+522,Mousinho da Silveira,Female,16,Urban,4 or more,Together,higher,higher,health,health,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,good,normal,high,very low,low,normal,4,8,8,8
+523,Mousinho da Silveira,Male,18,Urban,3 or less,Together,higher,higher,at_home,health,home,mother,1,4,0,no,yes,no,yes,yes,no,yes,yes,excellent,very high,very high,very high,very high,excellent,2,5,6,6
+524,Mousinho da Silveira,Female,16,Rural,3 or less,Together,secondary,higher,at_home,other,other,mother,3,2,0,no,yes,no,no,no,yes,no,no,good,low,very low,very low,very low,bad,2,7,9,8
+525,Mousinho da Silveira,Male,17,Urban,3 or less,Together,higher,higher,other,services,home,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,good,high,normal,very low,low,excellent,0,15,14,16
+526,Mousinho da Silveira,Female,17,Rural,4 or more,Together,higher,primary,other,other,other,mother,1,1,0,no,no,no,no,yes,yes,yes,yes,good,low,normal,very low,low,excellent,1,13,14,14
+527,Mousinho da Silveira,Male,16,Urban,3 or less,Together,5th - 9th,5th - 9th,services,services,other,mother,4,3,0,no,no,no,no,yes,yes,no,no,excellent,very low,normal,low,low,normal,0,10,9,10
+528,Mousinho da Silveira,Female,17,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,other,mother,1,1,0,no,yes,yes,no,yes,yes,yes,no,excellent,very low,normal,very low,low,excellent,5,9,9,9
+529,Mousinho da Silveira,Female,16,Urban,3 or less,Together,higher,higher,services,services,other,father,2,1,0,no,yes,no,no,yes,yes,no,no,excellent,very low,normal,very low,low,excellent,1,11,11,11
+530,Mousinho da Silveira,Male,17,Urban,4 or more,Together,secondary,secondary,services,services,home,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,good,very low,high,very high,very high,normal,8,7,10,9
+531,Mousinho da Silveira,Male,17,Urban,4 or more,Together,primary,primary,at_home,services,other,mother,3,2,0,no,no,no,no,yes,yes,yes,yes,excellent,very low,normal,normal,normal,very bad,0,10,10,10
+532,Mousinho da Silveira,Male,16,Urban,4 or more,Together,5th - 9th,primary,health,services,other,mother,2,2,0,no,no,no,no,no,yes,yes,yes,good,low,low,very low,high,excellent,2,9,7,8
+533,Mousinho da Silveira,Female,16,Urban,3 or less,Together,5th - 9th,primary,other,services,other,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,normal,low,low,very low,very low,normal,0,14,15,16
+534,Mousinho da Silveira,Male,16,Urban,3 or less,Together,higher,higher,teacher,health,other,father,1,1,0,no,yes,no,no,yes,yes,yes,no,good,very low,low,low,very high,excellent,0,11,12,12
+535,Mousinho da Silveira,Male,15,Rural,4 or more,Together,primary,5th - 9th,other,services,course,mother,3,2,0,no,yes,no,yes,yes,yes,no,no,excellent,very high,very high,very low,normal,excellent,11,9,11,10
+536,Mousinho da Silveira,Male,15,Urban,3 or less,Apart,5th - 9th,5th - 9th,other,other,reputation,mother,3,4,0,no,yes,no,yes,yes,yes,no,no,excellent,high,very high,low,normal,excellent,8,13,14,14
+537,Mousinho da Silveira,Male,15,Urban,3 or less,Apart,5th - 9th,primary,services,services,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,good,normal,normal,very low,low,excellent,11,12,13,12
+538,Mousinho da Silveira,Female,16,Rural,3 or less,Together,5th - 9th,5th - 9th,other,other,course,mother,1,3,0,no,yes,no,no,no,yes,no,yes,good,normal,normal,low,low,excellent,2,11,11,11
+539,Mousinho da Silveira,Female,16,Urban,3 or less,Together,higher,primary,other,other,home,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,very bad,low,high,low,low,very bad,8,9,10,10
+540,Mousinho da Silveira,Female,17,Urban,4 or more,Together,secondary,5th - 9th,at_home,other,home,mother,2,1,0,no,no,no,no,yes,yes,no,yes,good,normal,normal,low,low,very bad,5,9,11,11
+541,Mousinho da Silveira,Female,17,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,other,mother,2,2,0,yes,no,yes,no,yes,yes,no,no,excellent,very low,normal,very low,very low,excellent,0,11,9,11
+542,Mousinho da Silveira,Female,16,Urban,4 or more,Together,higher,higher,teacher,services,course,mother,2,3,0,no,yes,no,no,yes,yes,yes,yes,excellent,normal,very high,very low,high,excellent,1,10,11,12
+543,Mousinho da Silveira,Male,17,Rural,4 or more,Together,higher,higher,health,other,course,father,3,1,3,no,no,no,yes,yes,yes,yes,yes,normal,normal,normal,very low,normal,excellent,2,9,9,8
+544,Mousinho da Silveira,Male,17,Rural,3 or less,Together,primary,secondary,other,other,course,father,2,1,0,no,no,no,yes,yes,yes,no,yes,excellent,very low,low,normal,normal,excellent,2,12,11,12
+545,Mousinho da Silveira,Male,17,Urban,4 or more,Together,secondary,higher,services,other,other,mother,1,2,1,no,yes,no,yes,no,yes,yes,yes,excellent,high,high,normal,high,excellent,8,8,9,8
+546,Mousinho da Silveira,Female,17,Urban,4 or more,Together,higher,higher,health,health,course,father,1,2,0,no,yes,no,no,yes,yes,yes,no,excellent,low,very high,very low,very low,excellent,0,13,15,16
+547,Mousinho da Silveira,Male,16,Rural,3 or less,Together,higher,primary,other,at_home,other,father,1,1,0,no,no,no,no,yes,yes,yes,no,good,very low,low,low,very low,bad,0,10,11,11
+548,Mousinho da Silveira,Female,17,Urban,4 or more,Apart,primary,primary,at_home,at_home,other,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,good,very high,very high,very low,low,normal,2,11,10,11
+549,Mousinho da Silveira,Female,17,Rural,4 or more,Together,higher,5th - 9th,other,other,course,mother,2,2,0,yes,yes,no,no,no,yes,yes,no,good,normal,normal,low,normal,excellent,0,17,18,18
+550,Mousinho da Silveira,Male,16,Urban,3 or less,Apart,5th - 9th,5th - 9th,other,services,course,father,2,2,0,no,yes,no,no,no,yes,yes,yes,good,very low,low,low,low,excellent,0,12,13,13
+551,Mousinho da Silveira,Male,17,Urban,4 or more,Together,secondary,5th - 9th,other,other,other,father,2,2,0,no,yes,yes,no,yes,yes,yes,no,good,very low,low,low,low,very bad,0,13,14,13
+552,Mousinho da Silveira,Male,19,Urban,4 or more,Together,primary,primary,other,other,other,mother,1,2,2,no,yes,no,yes,yes,no,yes,no,good,high,normal,normal,high,good,2,9,9,10
+553,Mousinho da Silveira,Male,17,Urban,3 or less,Apart,primary,None,other,other,home,mother,1,1,0,no,no,no,no,yes,yes,no,yes,good,very low,low,very low,very low,excellent,4,11,11,12
+554,Mousinho da Silveira,Female,17,Rural,4 or more,Together,primary,primary,at_home,at_home,course,father,2,1,0,no,yes,no,yes,yes,no,yes,yes,normal,very high,very high,low,low,good,3,10,11,10
+555,Mousinho da Silveira,Female,16,Rural,4 or more,Together,primary,5th - 9th,other,other,home,father,1,3,0,yes,yes,no,no,no,yes,yes,yes,good,normal,high,very low,very low,normal,5,13,14,13
+556,Mousinho da Silveira,Male,16,Rural,3 or less,Together,primary,5th - 9th,other,at_home,course,mother,1,1,0,no,no,no,no,yes,yes,no,no,good,high,high,low,high,excellent,4,9,10,11
+557,Mousinho da Silveira,Female,17,Rural,4 or more,Together,secondary,primary,other,other,course,mother,2,2,3,no,yes,no,yes,no,yes,yes,yes,excellent,high,high,very low,very low,excellent,2,7,9,10
+558,Mousinho da Silveira,Male,17,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,2,1,0,no,no,no,yes,yes,no,no,yes,excellent,very high,very high,normal,very high,excellent,0,8,13,10
+559,Mousinho da Silveira,Male,18,Rural,4 or more,Together,primary,None,at_home,at_home,course,other,3,1,1,yes,yes,no,no,yes,yes,no,no,good,normal,low,very low,very low,good,0,12,12,13
+560,Mousinho da Silveira,Male,17,Rural,4 or more,Together,primary,primary,other,services,course,mother,2,1,0,no,yes,no,yes,no,yes,yes,yes,good,very high,very high,very low,normal,bad,0,10,9,10
+561,Mousinho da Silveira,Male,18,Urban,3 or less,Together,primary,primary,at_home,at_home,course,mother,2,2,0,no,yes,no,yes,yes,yes,no,no,good,normal,normal,very low,high,excellent,6,10,9,10
+562,Mousinho da Silveira,Female,16,Rural,3 or less,Together,5th - 9th,5th - 9th,other,services,course,father,1,2,0,no,no,no,yes,yes,yes,no,yes,excellent,high,normal,very low,very low,very bad,0,11,13,12
+563,Mousinho da Silveira,Male,17,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,1,1,1,no,no,no,yes,yes,yes,no,yes,very bad,low,very low,low,normal,excellent,0,7,0,0
+564,Mousinho da Silveira,Male,16,Rural,4 or more,Together,secondary,5th - 9th,services,other,course,father,2,1,0,no,no,no,no,yes,yes,yes,no,good,very high,very high,low,normal,excellent,2,11,9,10
+565,Mousinho da Silveira,Male,16,Rural,3 or less,Together,primary,primary,at_home,other,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,good,very high,very high,low,high,excellent,0,10,10,9
+566,Mousinho da Silveira,Male,18,Rural,4 or more,Together,primary,primary,services,other,course,other,2,1,1,no,yes,no,no,yes,no,yes,yes,excellent,normal,normal,low,normal,excellent,2,9,7,9
+567,Mousinho da Silveira,Male,18,Rural,4 or more,Together,secondary,5th - 9th,services,other,course,mother,1,1,1,no,no,no,no,yes,no,yes,no,bad,normal,very low,low,low,excellent,0,4,0,0
+568,Mousinho da Silveira,Male,19,Urban,4 or more,Together,secondary,5th - 9th,at_home,services,course,mother,2,1,3,no,no,no,yes,yes,yes,no,no,normal,low,very low,very low,very low,normal,4,6,11,9
+569,Mousinho da Silveira,Male,18,Urban,4 or more,Together,secondary,secondary,at_home,at_home,course,mother,1,2,2,no,yes,no,yes,yes,no,yes,no,good,high,very high,very low,normal,normal,9,4,8,8
+570,Mousinho da Silveira,Male,16,Rural,4 or more,Together,5th - 9th,5th - 9th,services,services,course,mother,2,1,0,no,yes,no,yes,yes,yes,yes,yes,excellent,high,normal,low,high,good,6,7,8,8
+571,Mousinho da Silveira,Male,19,Urban,4 or more,Together,5th - 9th,primary,at_home,other,course,other,2,1,3,no,no,no,yes,no,no,yes,yes,good,high,normal,very low,normal,excellent,4,8,9,9
+572,Mousinho da Silveira,Female,16,Urban,4 or more,Apart,secondary,5th - 9th,services,at_home,course,mother,2,2,2,no,yes,no,yes,yes,yes,no,yes,bad,very high,very high,very low,very low,very bad,8,5,5,7
+573,Mousinho da Silveira,Female,17,Urban,4 or more,Together,primary,primary,other,at_home,course,mother,1,1,0,no,yes,no,yes,yes,yes,no,no,good,normal,low,very low,low,excellent,9,7,9,10
+574,Mousinho da Silveira,Male,20,Rural,4 or more,Together,primary,primary,other,other,course,other,2,1,1,no,yes,no,no,yes,no,yes,yes,good,high,normal,low,high,good,12,8,11,10
+575,Mousinho da Silveira,Female,18,Rural,4 or more,Apart,higher,secondary,services,services,course,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,excellent,high,high,normal,high,bad,8,10,11,10
+576,Mousinho da Silveira,Male,18,Rural,4 or more,Together,secondary,5th - 9th,other,other,course,mother,2,1,0,no,yes,no,no,no,yes,yes,no,bad,very high,very high,very high,very high,excellent,8,9,10,11
+577,Mousinho da Silveira,Male,19,Rural,4 or more,Together,primary,primary,other,services,home,other,3,2,1,no,no,no,no,yes,yes,yes,no,excellent,high,high,normal,normal,bad,8,10,9,11
+578,Mousinho da Silveira,Male,17,Urban,4 or more,Together,secondary,secondary,health,other,course,mother,2,2,1,no,yes,no,no,yes,yes,yes,no,good,very high,high,low,normal,normal,4,8,9,10
+579,Mousinho da Silveira,Male,18,Urban,3 or less,Together,primary,secondary,at_home,services,course,mother,1,1,0,no,no,no,no,yes,no,yes,yes,good,normal,normal,low,normal,normal,0,9,10,9
+580,Mousinho da Silveira,Male,19,Rural,4 or more,Together,primary,primary,other,other,home,other,3,1,1,no,yes,no,no,yes,yes,yes,no,good,high,high,normal,normal,excellent,4,8,9,10
+581,Mousinho da Silveira,Female,18,Urban,4 or more,Apart,primary,5th - 9th,at_home,other,course,mother,2,2,2,no,yes,no,no,yes,yes,no,no,good,normal,normal,very low,very low,excellent,2,6,8,8
+582,Mousinho da Silveira,Female,19,Urban,3 or less,Apart,primary,primary,at_home,other,course,mother,1,1,0,no,yes,no,no,yes,no,no,no,very bad,high,high,very low,very low,excellent,0,6,8,7
+583,Mousinho da Silveira,Female,18,Rural,4 or more,Together,5th - 9th,5th - 9th,other,other,other,mother,2,1,1,no,no,no,no,yes,no,yes,yes,excellent,very high,very high,very low,very low,normal,0,8,6,0
+584,Mousinho da Silveira,Female,17,Rural,4 or more,Together,None,None,at_home,other,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,good,high,normal,very low,very low,excellent,0,10,11,11
+585,Mousinho da Silveira,Female,17,Rural,3 or less,Apart,secondary,primary,other,at_home,course,other,2,3,0,no,yes,yes,no,yes,no,no,no,good,low,normal,low,low,normal,5,8,7,8
+586,Mousinho da Silveira,Female,17,Urban,4 or more,Together,higher,5th - 9th,teacher,services,home,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,no,excellent,very high,very high,very low,normal,excellent,0,8,8,0
+587,Mousinho da Silveira,Female,18,Rural,3 or less,Together,5th - 9th,5th - 9th,services,services,course,mother,1,2,1,no,yes,no,yes,yes,yes,yes,no,bad,normal,normal,very low,low,good,3,7,6,8
+588,Mousinho da Silveira,Female,17,Urban,4 or more,Together,higher,primary,health,at_home,course,mother,1,1,0,no,yes,no,no,yes,yes,no,yes,normal,low,low,very low,very low,excellent,0,8,10,9
+589,Mousinho da Silveira,Female,17,Urban,3 or less,Together,primary,5th - 9th,at_home,other,course,father,1,1,0,no,no,no,no,yes,yes,yes,no,excellent,very high,very low,very low,very low,normal,0,7,10,10
+590,Mousinho da Silveira,Female,18,Urban,4 or more,Together,primary,primary,other,other,course,mother,3,2,2,no,no,no,yes,yes,yes,no,yes,normal,high,high,low,low,excellent,3,7,8,7
+591,Mousinho da Silveira,Female,18,Urban,4 or more,Together,5th - 9th,5th - 9th,services,at_home,reputation,father,2,2,0,no,no,no,yes,no,yes,yes,no,good,normal,very high,very low,very low,very bad,2,12,13,14
+592,Mousinho da Silveira,Female,17,Urban,4 or more,Together,secondary,secondary,services,services,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,good,high,normal,very low,very low,good,0,11,12,13
+593,Mousinho da Silveira,Female,18,Urban,3 or less,Apart,primary,5th - 9th,at_home,other,reputation,mother,2,2,0,no,no,no,no,yes,yes,yes,no,good,high,normal,very low,low,good,0,12,13,14
+594,Mousinho da Silveira,Female,18,Urban,4 or more,Together,higher,higher,teacher,teacher,reputation,mother,2,2,0,no,no,no,yes,no,yes,yes,no,good,normal,very high,very low,low,very bad,0,18,18,18
+595,Mousinho da Silveira,Male,18,Urban,3 or less,Together,higher,higher,services,other,reputation,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,excellent,high,very high,very low,very low,excellent,3,17,17,17
+596,Mousinho da Silveira,Female,17,Urban,4 or more,Together,higher,5th - 9th,other,other,course,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,low,good,0,17,18,18
+597,Mousinho da Silveira,Female,18,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,course,mother,3,2,1,no,no,no,yes,yes,yes,no,yes,good,normal,normal,very low,very low,good,0,9,0,0
+598,Mousinho da Silveira,Male,18,Urban,3 or less,Together,primary,5th - 9th,at_home,services,home,mother,2,1,0,no,yes,no,no,no,yes,no,no,good,very low,high,very high,very high,very bad,8,10,11,11
+599,Mousinho da Silveira,Male,18,Rural,4 or more,Together,higher,higher,at_home,services,other,mother,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,bad,very high,very high,very low,very low,very bad,5,12,13,14
+600,Mousinho da Silveira,Male,17,Rural,4 or more,Together,primary,primary,other,services,other,father,3,1,0,no,no,no,no,no,no,no,no,good,low,normal,normal,high,good,4,12,13,14
+601,Mousinho da Silveira,Female,18,Urban,4 or more,Together,5th - 9th,5th - 9th,other,other,course,mother,2,2,0,no,yes,no,no,no,yes,yes,yes,very bad,normal,very low,very low,very low,bad,4,8,8,10
+602,Mousinho da Silveira,Female,18,Urban,3 or less,Together,5th - 9th,5th - 9th,services,services,course,father,2,3,0,no,no,no,no,yes,yes,yes,yes,excellent,high,very high,very low,high,normal,0,11,12,13
+603,Mousinho da Silveira,Female,18,Rural,3 or less,Apart,higher,5th - 9th,teacher,other,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,excellent,normal,very low,very low,very low,excellent,0,5,0,0
+604,Mousinho da Silveira,Female,18,Urban,4 or more,Together,primary,primary,at_home,services,course,mother,3,2,1,no,no,no,no,yes,no,no,no,good,high,low,very low,low,bad,2,9,10,10
+605,Mousinho da Silveira,Female,19,Urban,4 or more,Together,primary,primary,at_home,services,other,father,2,1,1,no,no,no,no,yes,no,no,no,excellent,very high,very high,low,normal,bad,0,5,0,0
+606,Mousinho da Silveira,Female,17,Urban,4 or more,Together,higher,5th - 9th,teacher,other,course,father,2,4,0,no,no,no,no,yes,yes,yes,yes,good,low,normal,normal,very low,excellent,0,18,18,18
+607,Mousinho da Silveira,Female,17,Rural,3 or less,Apart,5th - 9th,primary,services,other,reputation,mother,2,2,0,no,no,no,yes,yes,yes,yes,yes,excellent,normal,normal,very low,low,bad,5,11,11,12
+608,Mousinho da Silveira,Female,18,Urban,3 or less,Apart,primary,primary,at_home,services,course,mother,1,2,0,no,no,no,no,yes,yes,no,yes,excellent,low,normal,very low,low,normal,2,8,10,11
+609,Mousinho da Silveira,Female,18,Urban,4 or more,Together,primary,5th - 9th,at_home,at_home,course,father,2,2,0,no,yes,no,no,yes,no,no,no,good,very low,very low,very low,very low,good,0,11,11,12
+610,Mousinho da Silveira,Female,19,Rural,4 or more,Apart,primary,primary,at_home,at_home,course,other,2,2,3,no,yes,no,yes,yes,no,no,yes,normal,very high,high,very low,high,very bad,0,8,0,0
+611,Mousinho da Silveira,Female,18,Rural,4 or more,Together,5th - 9th,5th - 9th,services,other,home,mother,2,3,0,no,no,no,no,yes,yes,yes,yes,good,low,very low,very low,very low,good,5,14,14,15
+612,Mousinho da Silveira,Male,17,Rural,4 or more,Together,higher,secondary,services,other,home,mother,2,2,1,no,yes,yes,yes,no,yes,yes,yes,good,very high,very high,very low,normal,bad,4,10,11,11
+613,Mousinho da Silveira,Female,18,Urban,4 or more,Together,secondary,secondary,services,services,course,father,1,2,0,no,yes,no,no,yes,yes,no,yes,excellent,normal,high,very low,very low,excellent,0,10,10,10
+614,Mousinho da Silveira,Female,17,Rural,4 or more,Together,higher,higher,teacher,services,other,father,2,2,0,no,yes,yes,yes,yes,yes,yes,no,good,normal,normal,very low,low,excellent,2,12,12,12
+615,Mousinho da Silveira,Female,17,Urban,3 or less,Apart,secondary,5th - 9th,services,other,reputation,mother,2,2,0,no,no,no,no,yes,yes,no,yes,very bad,low,normal,very low,low,excellent,0,15,14,15
+616,Mousinho da Silveira,Male,18,Urban,3 or less,Together,primary,primary,other,services,home,father,2,1,0,no,no,no,no,no,yes,yes,yes,normal,normal,low,very low,low,normal,2,14,13,14
+617,Mousinho da Silveira,Female,18,Urban,3 or less,Together,primary,primary,at_home,services,course,father,2,3,0,no,no,no,no,yes,yes,yes,no,excellent,normal,low,very low,very low,good,0,19,17,18
+618,Mousinho da Silveira,Female,18,Rural,3 or less,Apart,primary,5th - 9th,at_home,other,course,mother,3,2,0,no,no,no,no,yes,yes,no,yes,good,normal,high,very low,high,excellent,0,16,15,15
+619,Mousinho da Silveira,Female,18,Urban,4 or more,Together,secondary,secondary,services,services,other,mother,2,2,0,no,yes,no,no,yes,yes,yes,yes,good,normal,low,very low,normal,normal,6,13,12,13
+620,Mousinho da Silveira,Female,17,Urban,3 or less,Together,higher,higher,at_home,at_home,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,bad,normal,high,very low,very low,very bad,4,15,14,15
+621,Mousinho da Silveira,Female,17,Rural,4 or more,Together,primary,5th - 9th,other,services,course,father,2,2,0,no,no,no,no,no,yes,no,no,normal,low,low,very low,low,normal,0,13,13,13
+622,Mousinho da Silveira,Male,18,Rural,4 or more,Together,primary,secondary,at_home,other,course,mother,2,2,0,no,yes,yes,no,yes,yes,no,no,normal,normal,high,low,high,normal,0,8,10,9
+623,Mousinho da Silveira,Male,18,Urban,3 or less,Together,higher,higher,teacher,services,other,mother,2,3,0,no,no,no,no,yes,yes,yes,yes,good,low,low,low,low,excellent,0,15,16,16
+624,Mousinho da Silveira,Female,17,Rural,4 or more,Together,primary,primary,other,services,reputation,mother,3,1,1,no,yes,no,no,yes,yes,yes,yes,excellent,low,very low,very low,low,very bad,0,8,8,9
+625,Mousinho da Silveira,Female,18,Urban,4 or more,Together,5th - 9th,secondary,at_home,services,course,father,2,1,0,no,yes,no,no,yes,yes,yes,yes,excellent,low,normal,very low,low,good,0,10,10,10
+626,Mousinho da Silveira,Female,18,Rural,4 or more,Together,higher,higher,other,teacher,other,father,3,2,0,no,yes,no,no,no,yes,yes,yes,normal,low,low,high,low,excellent,0,7,5,0
+627,Mousinho da Silveira,Male,18,Rural,3 or less,Together,primary,5th - 9th,at_home,services,other,father,3,1,0,no,yes,no,yes,yes,no,yes,yes,good,normal,normal,low,normal,normal,3,9,10,10
+628,Mousinho da Silveira,Female,17,Urban,4 or more,Together,5th - 9th,5th - 9th,other,at_home,home,mother,1,3,0,no,no,no,yes,yes,yes,no,yes,normal,high,normal,very low,very low,normal,8,10,11,12
+629,Mousinho da Silveira,Female,17,Rural,4 or more,Together,primary,5th - 9th,other,other,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,normal,very high,very high,very low,normal,very bad,4,7,8,9
+630,Mousinho da Silveira,Female,18,Rural,3 or less,Together,higher,higher,other,other,reputation,mother,2,3,0,no,no,no,no,yes,yes,yes,no,excellent,high,high,very low,very low,very bad,0,15,17,17
+631,Mousinho da Silveira,Female,18,Rural,4 or more,Together,primary,primary,other,other,home,mother,4,3,0,no,no,no,no,yes,yes,yes,no,good,normal,low,very low,low,good,4,10,11,12
+632,Mousinho da Silveira,Female,19,Rural,4 or more,Together,primary,primary,at_home,other,course,other,2,2,1,no,yes,no,no,yes,yes,yes,yes,good,normal,normal,very low,very low,normal,4,7,8,9
+633,Mousinho da Silveira,Female,18,Rural,3 or less,Together,higher,higher,teacher,services,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,excellent,high,normal,normal,high,bad,1,13,14,14
+634,Mousinho da Silveira,Female,18,Urban,4 or more,Together,secondary,secondary,other,other,home,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,good,very low,normal,very low,low,very bad,1,16,16,16
+635,Mousinho da Silveira,Female,17,Rural,4 or more,Together,secondary,primary,at_home,other,reputation,mother,1,2,0,no,yes,no,yes,no,yes,yes,no,good,very high,high,low,normal,very bad,10,8,9,9
+636,Mousinho da Silveira,Male,18,Urban,4 or more,Together,higher,higher,teacher,teacher,home,father,1,2,0,no,no,no,yes,no,yes,yes,no,normal,low,high,very low,high,bad,4,17,18,19
+637,Mousinho da Silveira,Male,18,Rural,4 or more,Together,5th - 9th,primary,other,other,other,mother,2,1,0,no,no,no,yes,no,yes,yes,yes,good,high,normal,very low,normal,excellent,0,7,7,0
+638,Mousinho da Silveira,Male,17,Urban,4 or more,Together,5th - 9th,secondary,other,services,home,father,2,2,0,no,no,no,yes,yes,yes,yes,no,good,high,normal,very low,very low,normal,4,14,15,16
+639,Mousinho da Silveira,Male,19,Rural,4 or more,Together,primary,primary,other,services,other,mother,2,1,1,no,no,no,no,yes,yes,no,no,good,normal,low,very low,normal,excellent,0,5,8,0
+640,Mousinho da Silveira,Male,18,Rural,4 or more,Together,higher,5th - 9th,other,other,home,father,2,1,1,no,no,yes,no,yes,yes,no,no,excellent,high,normal,high,normal,normal,0,7,7,0
+641,Mousinho da Silveira,Female,18,Rural,4 or more,Together,5th - 9th,5th - 9th,at_home,other,other,mother,2,3,0,no,no,no,no,yes,yes,no,no,excellent,normal,normal,very low,normal,good,0,14,17,15
+642,Mousinho da Silveira,Female,17,Urban,4 or more,Together,higher,secondary,teacher,other,other,mother,2,2,0,no,no,no,no,yes,yes,yes,no,excellent,very high,high,very low,very low,very bad,0,6,9,11
+643,Mousinho da Silveira,Female,18,Rural,4 or more,Together,higher,higher,teacher,at_home,reputation,mother,3,1,0,no,yes,no,yes,yes,yes,yes,yes,good,high,normal,low,low,excellent,4,7,9,10
+644,Mousinho da Silveira,Female,19,Rural,4 or more,Together,5th - 9th,secondary,services,other,course,mother,1,3,1,no,no,no,yes,no,yes,yes,no,excellent,high,low,very low,low,excellent,4,10,11,10
+645,Mousinho da Silveira,Female,18,Urban,3 or less,Together,secondary,primary,teacher,services,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,good,normal,high,very low,very low,very bad,4,15,15,16
+646,Mousinho da Silveira,Female,18,Urban,4 or more,Together,primary,primary,other,other,course,mother,2,2,0,no,no,no,yes,yes,yes,no,no,very bad,very low,very low,very low,very low,excellent,6,11,12,9
+647,Mousinho da Silveira,Male,17,Urban,3 or less,Together,secondary,primary,services,services,course,mother,2,1,0,no,no,no,no,no,yes,yes,no,bad,high,very high,normal,high,bad,6,10,10,10
+648,Mousinho da Silveira,Male,18,Rural,3 or less,Together,secondary,5th - 9th,services,other,course,mother,3,1,0,no,no,no,no,no,yes,yes,no,good,high,very low,normal,high,excellent,4,10,11,11

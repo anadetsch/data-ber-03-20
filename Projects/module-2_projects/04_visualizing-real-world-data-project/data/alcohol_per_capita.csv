@@ -1,0 +1,177 @@
+,Unnamed: 0,year,alcohol per capita,country
+0,0,1961,0.41,Republic of Korea
+1,1,1962,0.41,Republic of Korea
+2,2,1963,0.34,Republic of Korea
+3,3,1964,0.33,Republic of Korea
+4,4,1965,0.5,Republic of Korea
+5,5,1966,0.6,Republic of Korea
+6,6,1967,0.2,Republic of Korea
+7,7,1968,0.18,Republic of Korea
+8,8,1969,0.19,Republic of Korea
+9,9,1970,0.21,Republic of Korea
+10,10,1971,0.23,Republic of Korea
+11,11,1972,0.23,Republic of Korea
+12,12,1973,0.26,Republic of Korea
+13,13,1974,0.3,Republic of Korea
+14,14,1975,0.38,Republic of Korea
+15,15,1976,0.4,Republic of Korea
+16,16,1977,0.42,Republic of Korea
+17,17,1978,0.4,Republic of Korea
+18,18,1979,0.38,Republic of Korea
+19,19,1980,0.38,Republic of Korea
+20,20,1981,0.42,Republic of Korea
+21,21,1982,0.44,Republic of Korea
+22,22,1983,0.45,Republic of Korea
+23,23,1984,0.48,Republic of Korea
+24,24,1985,0.44,Republic of Korea
+25,25,1986,0.45,Republic of Korea
+26,26,1987,0.46,Republic of Korea
+27,27,1988,0.52,Republic of Korea
+28,28,1989,0.5,Republic of Korea
+29,29,1990,0.59,Republic of Korea
+30,30,1991,2.47,Republic of Korea
+31,31,1992,0.58,Republic of Korea
+32,32,1993,2.61,Republic of Korea
+33,33,1994,2.7,Republic of Korea
+34,34,1995,2.67,Republic of Korea
+35,35,1996,0.16,Republic of Korea
+36,36,1997,0.12,Republic of Korea
+37,37,1998,0.09,Republic of Korea
+38,38,1999,0.12,Republic of Korea
+39,39,2000,0.46,Republic of Korea
+40,40,2001,0.47,Republic of Korea
+41,41,2002,0.52,Republic of Korea
+42,42,2003,0.47,Republic of Korea
+43,43,2004,0.32,Republic of Korea
+44,44,2005,0.34,Republic of Korea
+45,45,2006,0.33,Republic of Korea
+46,46,2007,0.37,Republic of Korea
+47,47,2008,0.33,Republic of Korea
+48,48,2009,0.27,Republic of Korea
+49,49,2010,0.4,Republic of Korea
+50,50,2011,0.37799999999999995,Republic of Korea
+51,51,2012,0.37,Republic of Korea
+52,52,2013,0.38,Republic of Korea
+53,53,2014,0.39,Republic of Korea
+54,54,2015,0.64,Republic of Korea
+55,55,2016,0.574,Republic of Korea
+56,56,2017,0.5870000000000001,Republic of Korea
+57,57,2018,0.599,Republic of Korea
+58,58,2019,0.612,Republic of Korea
+59,0,1960,3.26,United States
+60,1,1961,3.26,United States
+61,2,1962,3.41,United States
+62,3,1963,3.44,United States
+63,4,1964,3.6,United States
+64,5,1965,3.75,United States
+65,6,1966,3.86,United States
+66,7,1967,3.97,United States
+67,8,1968,4.16,United States
+68,9,1969,4.28,United States
+69,10,1970,4.2,United States
+70,11,1971,4.24,United States
+71,12,1972,4.13,United States
+72,13,1973,4.16,United States
+73,14,1974,4.2,United States
+74,15,1975,4.2,United States
+75,16,1976,4.16,United States
+76,17,1977,4.01,United States
+77,18,1978,4.05,United States
+78,19,1979,4.01,United States
+79,20,1980,3.94,United States
+80,21,1981,3.86,United States
+81,22,1982,3.71,United States
+82,23,1983,3.63,United States
+83,24,1984,3.56,United States
+84,25,1985,3.41,United States
+85,26,1986,3.18,United States
+86,27,1987,3.1,United States
+87,28,1988,2.99,United States
+88,29,1989,2.91,United States
+89,30,1990,2.91,United States
+90,31,1991,2.69,United States
+91,32,1992,2.69,United States
+92,33,1993,2.57,United States
+93,34,1994,2.46,United States
+94,35,1995,2.38,United States
+95,36,1996,2.38,United States
+96,37,1997,2.35,United States
+97,38,1998,2.35,United States
+98,39,1999,2.38,United States
+99,40,2000,2.42,United States
+100,41,2001,2.42,United States
+101,42,2002,2.42,United States
+102,43,2003,2.54,United States
+103,44,2004,2.57,United States
+104,45,2005,2.65,United States
+105,46,2006,2.69,United States
+106,47,2007,2.76,United States
+107,48,2008,2.76,United States
+108,49,2009,2.8,United States
+109,50,2010,2.81,United States
+110,51,2011,2.89,United States
+111,52,2012,2.96,United States
+112,53,2013,2.99,United States
+113,54,2014,3.01,United States
+114,55,2015,3.07,United States
+115,56,2016,3.09,United States
+116,57,2017,3.11,United States
+117,58,2018,3.14,United States
+118,59,2019,3.17,United States
+119,0,1963,4.27,Russian Federation
+120,1,1964,4.4,Russian Federation
+121,2,1965,4.58,Russian Federation
+122,3,1966,4.61,Russian Federation
+123,4,1967,4.92,Russian Federation
+124,5,1968,5.13,Russian Federation
+125,6,1969,5.21,Russian Federation
+126,7,1970,5.16,Russian Federation
+127,8,1971,4.92,Russian Federation
+128,9,1972,4.47,Russian Federation
+129,10,1973,4.37,Russian Federation
+130,11,1974,4.33,Russian Federation
+131,12,1975,4.3,Russian Federation
+132,13,1976,4.27,Russian Federation
+133,14,1977,4.25,Russian Federation
+134,15,1978,4.23,Russian Federation
+135,16,1979,4.22,Russian Federation
+136,17,1980,4.21,Russian Federation
+137,18,1981,4.21,Russian Federation
+138,19,1982,4.22,Russian Federation
+139,20,1983,4.24,Russian Federation
+140,21,1984,4.77,Russian Federation
+141,22,1985,4.01,Russian Federation
+142,23,1986,2.46,Russian Federation
+143,24,1987,2.08,Russian Federation
+144,25,1988,2.34,Russian Federation
+145,26,1989,2.6,Russian Federation
+146,27,1990,4.68,Russian Federation
+147,28,1991,5.31,Russian Federation
+148,29,1992,4.95,Russian Federation
+149,30,1993,6.24,Russian Federation
+150,31,1994,7.03,Russian Federation
+151,32,1995,8.87,Russian Federation
+152,33,1996,6.91,Russian Federation
+153,34,1997,6.88,Russian Federation
+154,35,1998,7.44,Russian Federation
+155,36,1999,7.99,Russian Federation
+156,37,2000,7.29,Russian Federation
+157,38,2001,7.09,Russian Federation
+158,39,2002,7.15,Russian Federation
+159,40,2003,7.32,Russian Federation
+160,41,2004,7.09,Russian Federation
+161,42,2005,6.9,Russian Federation
+162,43,2006,6.72,Russian Federation
+163,44,2007,6.34,Russian Federation
+164,45,2008,6.16,Russian Federation
+165,46,2009,5.79,Russian Federation
+166,47,2010,5.06,Russian Federation
+167,48,2011,5.04,Russian Federation
+168,49,2012,4.95,Russian Federation
+169,50,2013,4.36,Russian Federation
+170,51,2014,3.6,Russian Federation
+171,52,2015,3.36,Russian Federation
+172,53,2016,3.25,Russian Federation
+173,54,2017,3.02,Russian Federation
+174,55,2018,2.81,Russian Federation
+175,56,2019,2.6,Russian Federation

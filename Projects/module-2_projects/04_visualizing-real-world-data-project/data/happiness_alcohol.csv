@@ -1,0 +1,123 @@
+,Country,Region,Hemisphere,HappinessScore,HDI,GDP_PerCapita,Beer_PerCapita,Spirit_PerCapita,Wine_PerCapita
+0,Denmark,Western Europe,north,7.526,928,53.57899999999999,224,81,278
+1,Switzerland,Western Europe,north,7.5089999999999995,943,79.866,185,100,280
+2,Iceland,Western Europe,north,7.501,933,60.53,233,61,78
+3,Norway,Western Europe,north,7.497999999999999,951,70.89,169,71,129
+4,Finland,Western Europe,north,7.412999999999999,918,43.433,263,133,97
+5,Canada,North America,north,7.404,922,42.349,240,122,100
+6,Netherlands,Western Europe,north,7.3389999999999995,928,45.638000000000005,251,88,190
+7,New Zealand,Australia and New Zealand,south,7.334,915,40.332,203,79,175
+8,Australia,Australia and New Zealand,south,7.313,938,49.897,261,72,212
+9,Sweden,Western Europe,north,7.291,932,51.845,152,60,186
+10,Israel,Middle East and Northern Africa,north,7.267,902,37.181,63,69,9
+11,Austria,Western Europe,north,7.119,906,44.731,279,75,191
+12,United States,North America,north,7.104,922,57.589,249,158,84
+13,Costa Rica,Latin America and Caribbean,north,7.087000000000001,791,11.732999999999999,149,87,11
+14,Germany,Western Europe,north,6.994,934,42.233000000000004,346,117,175
+15,Brazil,Latin America and Caribbean,both,6.952000000000001,758,8.639,245,145,16
+16,Belgium,Western Europe,north,6.928999999999999,915,41.261,295,84,212
+17,Ireland,Western Europe,north,6.907,934,64.1,313,118,165
+18,Luxembourg,Western Europe,north,6.871,904,100.73899999999999,236,133,271
+19,Mexico,Latin America and Caribbean,north,6.778,772,8.443999999999999,238,68,5
+20,Singapore,Southeastern Asia,north,6.739,930,55.243,60,12,11
+21,United Kingdom,Western Europe,north,6.725,920,40.412,219,126,195
+22,Chile,Latin America and Caribbean,south,6.705,842,13.960999999999999,130,124,172
+23,Panama,Latin America and Caribbean,north,6.7010000000000005,785,14.333,285,104,18
+24,Argentina,Latin America and Caribbean,south,6.65,822,12.654000000000002,193,25,221
+25,Czech Republic,Central and Eastern Europe,north,6.596,885,18.484,361,170,134
+26,United Arab Emirates,Middle East and Northern Africa,north,6.5729999999999995,862,38.518,16,135,5
+27,Uruguay,Latin America and Caribbean,south,6.545,802,15.298,115,35,220
+28,Malta,Western Europe,north,6.4879999999999995,875,24.771,149,100,120
+29,Colombia,Latin America and Caribbean,both,6.481,747,5.757000000000001,159,76,3
+30,France,Western Europe,north,6.478,899,36.87,127,151,370
+31,Thailand,Southeastern Asia,north,6.474,748,5.979,99,258,1
+32,Qatar,Middle East and Northern Africa,north,6.375,855,59.324,1,42,7
+33,Spain,Western Europe,north,6.361000000000001,889,26.616999999999997,284,157,112
+34,Guatemala,Latin America and Caribbean,north,6.324,649,4.141,53,69,2
+35,Suriname,Latin America and Caribbean,north,6.269,719,5.871,128,178,7
+36,Bahrain,Middle East and Northern Africa,north,6.218,846,22.561,42,63,7
+37,Trinidad and Tobago,Latin America and Caribbean,north,6.167999999999999,785,16.352,197,156,7
+38,Venezuela,Latin America and Caribbean,north,6.084,766,15.692,333,100,3
+39,Slovakia,Central and Eastern Europe,north,6.077999999999999,853,16.53,196,293,116
+40,El Salvador,Latin America and Caribbean,north,6.068,679,3.7689999999999997,52,69,2
+41,Nicaragua,Latin America and Caribbean,north,5.992000000000001,657,2.144,78,118,1
+42,Uzbekistan,Central and Eastern Europe,north,5.987,703,2.106,25,101,8
+43,Italy,Western Europe,north,5.977,878,30.669,85,42,237
+44,Ecuador,Latin America and Caribbean,both,5.976,749,6.019,162,74,3
+45,Belize,Latin America and Caribbean,north,5.956,709,4.96,263,114,8
+46,Japan,Eastern Asia,north,5.921,907,38.972,77,202,16
+47,Kazakhstan,Central and Eastern Europe,north,5.919,797,7.715,124,246,12
+48,Moldova,Central and Eastern Europe,north,5.897,697,1.913,109,226,18
+49,Russian Federation,Central and Eastern Europe,north,5.856,815,8.748,247,326,73
+50,Poland,Central and Eastern Europe,north,5.835,860,12.415,343,215,56
+51,Republic of Korea,Eastern Asia,north,5.835,900,27.105,140,16,9
+52,Bolivia,Latin America and Caribbean,south,5.822,689,3.117,167,41,8
+53,Lithuania,Central and Eastern Europe,north,5.813,855,14.913,343,244,56
+54,Belarus,Central and Eastern Europe,north,5.8020000000000005,805,5.023,142,373,42
+55,Slovenia,Central and Eastern Europe,north,5.768,894,21.65,270,51,276
+56,Peru,Latin America and Caribbean,both,5.742999999999999,748,6.031000000000001,163,160,21
+57,Turkmenistan,Central and Eastern Europe,north,5.6579999999999995,705,6.388999999999999,19,71,32
+58,Mauritius,Sub-Saharan Africa,north,5.648,788,9.682,98,31,18
+59,Latvia,Central and Eastern Europe,north,5.56,844,14.07,281,216,62
+60,Cyprus,Western Europe,north,5.546,867,23.541,192,154,113
+61,Paraguay,Latin America and Caribbean,south,5.537999999999999,702,4.078,213,117,74
+62,Romania,Central and Eastern Europe,north,5.528,807,9.532,297,122,167
+63,Estonia,Central and Eastern Europe,north,5.517,868,17.737000000000002,224,194,59
+64,Jamaica,Latin America and Caribbean,north,5.51,732,4.879,82,97,9
+65,Croatia,Central and Eastern Europe,north,5.4879999999999995,828,12.299000000000001,230,87,254
+66,Turkey,Middle East and Northern Africa,north,5.388999999999999,787,10.863,51,22,7
+67,Jordan,Middle East and Northern Africa,north,5.303,735,4.088,6,21,1
+68,Azerbaijan,Central and Eastern Europe,north,5.291,757,3.8810000000000002,21,46,5
+69,Philippines,Southeastern Asia,north,5.279,696,2.951,71,186,1
+70,China,Eastern Asia,north,5.245,748,8.117,79,192,8
+71,Kyrgyzstan,Central and Eastern Europe,north,5.185,669,1.22,31,97,6
+72,Serbia,Central and Eastern Europe,north,5.1770000000000005,785,5.426,283,131,127
+73,Bosnia and Herzegovina,Central and Eastern Europe,north,5.162999999999999,766,4.809,76,173,8
+74,Montenegro,Central and Eastern Europe,north,5.1610000000000005,810,7.029,31,114,128
+75,Dominican Republic,Latin America and Caribbean,north,5.155,733,6.794,193,147,9
+76,Morocco,Middle East and Northern Africa,north,5.151,662,2.8930000000000002,12,6,10
+77,Hungary,Central and Eastern Europe,north,5.145,835,12.82,234,215,185
+78,Lebanon,Middle East and Northern Africa,north,5.129,753,8.257,20,55,31
+79,Portugal,Western Europe,north,5.122999999999999,845,19.872,194,67,339
+80,Macedonia,Central and Eastern Europe,north,5.121,756,4.834,106,27,86
+81,Vietnam,Southeastern Asia,north,5.061,689,2.171,111,2,1
+82,Tunisia,Middle East and Northern Africa,north,5.045,732,3.6889999999999996,51,3,20
+83,Greece,Western Europe,north,5.033,868,17.882,133,112,218
+84,Mongolia,Eastern Asia,north,4.907,743,3.694,77,189,8
+85,Nigeria,Sub-Saharan Africa,north,4.875,530,2.176,42,5,2
+86,Honduras,Latin America and Caribbean,north,4.871,614,2.375,69,98,2
+87,Zambia,Sub-Saharan Africa,south,4.795,586,1.263,32,19,4
+88,Albania,Central and Eastern Europe,north,4.655,782,4.132,89,132,54
+89,Sierra Leone,Sub-Saharan Africa,north,4.635,413,481.0,25,3,2
+90,Namibia,Sub-Saharan Africa,south,4.574,645,4.561,376,3,1
+91,Cameroon,Sub-Saharan Africa,south,4.513,553,1.375,147,1,4
+92,South Africa,Sub-Saharan Africa,south,4.459,696,5.28,225,76,81
+93,Egypt,Middle East and Northern Africa,north,4.362,694,3.548,6,4,1
+94,Armenia,Central and Eastern Europe,north,4.36,749,3.6060000000000003,21,179,11
+95,Kenya,Sub-Saharan Africa,both,4.356,585,1.463,58,22,2
+96,Ukraine,Central and Eastern Europe,north,4.324,746,2.186,206,237,45
+97,Ghana,Sub-Saharan Africa,north,4.276,588,1.517,31,3,10
+98,Dem. Rep. Congo,Sub-Saharan Africa,south,4.272,452,1.712,32,3,1
+99,Georgia,Central and Eastern Europe,north,4.252,776,3.866,52,100,149
+100,Rep. Congo,Sub-Saharan Africa,south,4.236000000000001,612,498.0,76,1,9
+101,Senegal,Sub-Saharan Africa,north,4.218999999999999,499,953.0,9,1,7
+102,Bulgaria,Central and Eastern Europe,north,4.217,810,7.468999999999999,231,252,94
+103,Zimbabwe,Sub-Saharan Africa,south,4.1930000000000005,532,1.0290000000000001,64,18,4
+104,Malawi,Sub-Saharan Africa,south,4.156000000000001,474,300.0,8,11,1
+105,Gabon,Sub-Saharan Africa,south,4.121,698,7.079,347,98,59
+106,Mali,Sub-Saharan Africa,north,4.073,421,780.0,5,1,1
+107,Haiti,Latin America and Caribbean,north,4.0280000000000005,496,735.0,1,326,1
+108,Botswana,Sub-Saharan Africa,south,3.9739999999999998,712,6.954,173,35,35
+109,Comoros,Sub-Saharan Africa,south,3.9560000000000004,502,775.0,1,3,1
+110,Cote d'Ivoire,Sub-Saharan Africa,north,3.9160000000000004,486,1.535,37,1,7
+111,Cambodia,Southeastern Asia,north,3.907,576,1.27,57,65,1
+112,Angola,Sub-Saharan Africa,south,3.866,577,3.3089999999999997,217,57,45
+113,Niger,Sub-Saharan Africa,north,3.8560000000000003,351,368.0,3,2,1
+114,Chad,Sub-Saharan Africa,north,3.763,405,651.0,15,1,1
+115,Burkina Faso,Sub-Saharan Africa,north,3.739,420,614.0,25,7,7
+116,Madagascar,Sub-Saharan Africa,south,3.695,517,402.0,26,15,4
+117,Tanzania,Sub-Saharan Africa,south,3.6660000000000004,533,878.0,36,6,1
+118,Liberia,Sub-Saharan Africa,north,3.622,432,455.0,19,152,2
+119,Benin,Sub-Saharan Africa,north,3.484,512,789.0,34,4,13
+120,Togo,Sub-Saharan Africa,north,3.303,500,577.0,36,2,19
+121,Syria,Middle East and Northern Africa,north,3.069,536,2.0580000000000003,5,35,16

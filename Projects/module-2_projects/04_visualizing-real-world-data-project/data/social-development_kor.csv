@@ -1,0 +1,798 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+"Korea, Rep.",KOR,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99754
+"Korea, Rep.",KOR,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99847
+"Korea, Rep.",KOR,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99847
+"Korea, Rep.",KOR,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99891
+"Korea, Rep.",KOR,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00088
+"Korea, Rep.",KOR,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00183
+"Korea, Rep.",KOR,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0024
+"Korea, Rep.",KOR,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00092
+"Korea, Rep.",KOR,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99941
+"Korea, Rep.",KOR,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99724
+"Korea, Rep.",KOR,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99428
+"Korea, Rep.",KOR,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.9932
+"Korea, Rep.",KOR,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.9927
+"Korea, Rep.",KOR,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99561
+"Korea, Rep.",KOR,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99775
+"Korea, Rep.",KOR,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00209
+"Korea, Rep.",KOR,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00549
+"Korea, Rep.",KOR,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01375
+"Korea, Rep.",KOR,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0263899564743
+"Korea, Rep.",KOR,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.03162002563477
+"Korea, Rep.",KOR,1997,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.02845001220703
+"Korea, Rep.",KOR,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.03418004512787
+"Korea, Rep.",KOR,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0289900302887
+"Korea, Rep.",KOR,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01962995529175
+"Korea, Rep.",KOR,1993,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01254999637604
+"Korea, Rep.",KOR,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00868999958038
+"Korea, Rep.",KOR,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00523996353149
+"Korea, Rep.",KOR,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00423002243042
+"Korea, Rep.",KOR,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00279998779297
+"Korea, Rep.",KOR,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00291001796722
+"Korea, Rep.",KOR,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00504004955292
+"Korea, Rep.",KOR,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00639998912811
+"Korea, Rep.",KOR,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00760996341705
+"Korea, Rep.",KOR,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00671994686127
+"Korea, Rep.",KOR,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00732004642487
+"Korea, Rep.",KOR,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00759994983673
+"Korea, Rep.",KOR,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00577998161316
+"Korea, Rep.",KOR,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00557005405426
+"Korea, Rep.",KOR,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00329005718231
+"Korea, Rep.",KOR,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99906998872757
+"Korea, Rep.",KOR,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996949970722198
+"Korea, Rep.",KOR,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992470026016235
+"Korea, Rep.",KOR,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.988990008831024
+"Korea, Rep.",KOR,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.98404997587204
+"Korea, Rep.",KOR,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.978359997272491
+"Korea, Rep.",KOR,1972,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.973829984664917
+"Korea, Rep.",KOR,1971,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.968020021915436
+"Korea, Rep.",KOR,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99531
+"Korea, Rep.",KOR,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99482
+"Korea, Rep.",KOR,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99554
+"Korea, Rep.",KOR,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99672
+"Korea, Rep.",KOR,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.9974
+"Korea, Rep.",KOR,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99727
+"Korea, Rep.",KOR,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99686
+"Korea, Rep.",KOR,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.9977
+"Korea, Rep.",KOR,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99833
+"Korea, Rep.",KOR,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99907
+"Korea, Rep.",KOR,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99947
+"Korea, Rep.",KOR,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00205
+"Korea, Rep.",KOR,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00726
+"Korea, Rep.",KOR,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00923
+"Korea, Rep.",KOR,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00965
+"Korea, Rep.",KOR,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00986
+"Korea, Rep.",KOR,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01021
+"Korea, Rep.",KOR,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00961
+"Korea, Rep.",KOR,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00989997386932
+"Korea, Rep.",KOR,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01148998737335
+"Korea, Rep.",KOR,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01029002666473
+"Korea, Rep.",KOR,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01521003246307
+"Korea, Rep.",KOR,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01213002204895
+"Korea, Rep.",KOR,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997359991073608
+"Korea, Rep.",KOR,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997669994831085
+"Korea, Rep.",KOR,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.991810023784637
+"Korea, Rep.",KOR,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.987950026988983
+"Korea, Rep.",KOR,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983640015125275
+"Korea, Rep.",KOR,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.980430006980896
+"Korea, Rep.",KOR,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.977859973907471
+"Korea, Rep.",KOR,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.993350028991699
+"Korea, Rep.",KOR,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.980650007724762
+"Korea, Rep.",KOR,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.975149989128113
+"Korea, Rep.",KOR,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.966920018196106
+"Korea, Rep.",KOR,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.957340002059937
+"Korea, Rep.",KOR,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.954249978065491
+"Korea, Rep.",KOR,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.949150025844574
+"Korea, Rep.",KOR,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.9341099858284
+"Korea, Rep.",KOR,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.911239981651306
+"Korea, Rep.",KOR,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.898119986057281
+"Korea, Rep.",KOR,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.890120029449463
+"Korea, Rep.",KOR,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.885869979858398
+"Korea, Rep.",KOR,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.88384997844696
+"Korea, Rep.",KOR,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.882189989089966
+"Korea, Rep.",KOR,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.881309986114502
+"Korea, Rep.",KOR,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.880879998207092
+"Korea, Rep.",KOR,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.877659976482391
+"Korea, Rep.",KOR,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99357
+"Korea, Rep.",KOR,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99202
+"Korea, Rep.",KOR,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99326
+"Korea, Rep.",KOR,2014,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99512
+"Korea, Rep.",KOR,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99484
+"Korea, Rep.",KOR,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99363
+"Korea, Rep.",KOR,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99212
+"Korea, Rep.",KOR,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99458
+"Korea, Rep.",KOR,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99661
+"Korea, Rep.",KOR,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99946
+"Korea, Rep.",KOR,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00316
+"Korea, Rep.",KOR,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01005
+"Korea, Rep.",KOR,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02231
+"Korea, Rep.",KOR,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02427
+"Korea, Rep.",KOR,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02331
+"Korea, Rep.",KOR,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01883
+"Korea, Rep.",KOR,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01582
+"Korea, Rep.",KOR,2000,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00641
+"Korea, Rep.",KOR,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.996360003948212
+"Korea, Rep.",KOR,1998,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.995909988880157
+"Korea, Rep.",KOR,1997,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.996280014514923
+"Korea, Rep.",KOR,1996,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00030994415283
+"Korea, Rep.",KOR,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.998499989509583
+"Korea, Rep.",KOR,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.977720022201538
+"Korea, Rep.",KOR,1993,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.983720004558563
+"Korea, Rep.",KOR,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.974799990653992
+"Korea, Rep.",KOR,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.970080018043518
+"Korea, Rep.",KOR,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.962580025196075
+"Korea, Rep.",KOR,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.958440005779266
+"Korea, Rep.",KOR,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.953939974308014
+"Korea, Rep.",KOR,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.982330024242401
+"Korea, Rep.",KOR,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.956019997596741
+"Korea, Rep.",KOR,1985,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.942569971084595
+"Korea, Rep.",KOR,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.924489974975586
+"Korea, Rep.",KOR,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.899850010871887
+"Korea, Rep.",KOR,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.890640020370483
+"Korea, Rep.",KOR,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.880450010299683
+"Korea, Rep.",KOR,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.843270003795624
+"Korea, Rep.",KOR,1979,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.788730025291443
+"Korea, Rep.",KOR,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.76010000705719
+"Korea, Rep.",KOR,1977,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.738349974155426
+"Korea, Rep.",KOR,1976,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.722350001335144
+"Korea, Rep.",KOR,1975,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.709460020065308
+"Korea, Rep.",KOR,1974,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.696300029754639
+"Korea, Rep.",KOR,1973,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.682659983634949
+"Korea, Rep.",KOR,1972,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.668869972229004
+"Korea, Rep.",KOR,1971,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.645900011062622
+"Korea, Rep.",KOR,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.79085
+"Korea, Rep.",KOR,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.78573
+"Korea, Rep.",KOR,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.77841
+"Korea, Rep.",KOR,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.77092
+"Korea, Rep.",KOR,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.76445
+"Korea, Rep.",KOR,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.75712
+"Korea, Rep.",KOR,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.75089
+"Korea, Rep.",KOR,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.74358
+"Korea, Rep.",KOR,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.72595
+"Korea, Rep.",KOR,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.70845
+"Korea, Rep.",KOR,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.68617
+"Korea, Rep.",KOR,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.66214
+"Korea, Rep.",KOR,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.64039
+"Korea, Rep.",KOR,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.62617
+"Korea, Rep.",KOR,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.61312
+"Korea, Rep.",KOR,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.60554
+"Korea, Rep.",KOR,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.59439
+"Korea, Rep.",KOR,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.5835
+"Korea, Rep.",KOR,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.572480022907257
+"Korea, Rep.",KOR,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.56904000043869
+"Korea, Rep.",KOR,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.63730001449585
+"Korea, Rep.",KOR,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.573989987373352
+"Korea, Rep.",KOR,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.571609973907471
+"Korea, Rep.",KOR,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.562170028686523
+"Korea, Rep.",KOR,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.579150021076202
+"Korea, Rep.",KOR,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.51638001203537
+"Korea, Rep.",KOR,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.488779991865158
+"Korea, Rep.",KOR,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.469610005617142
+"Korea, Rep.",KOR,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.452470004558563
+"Korea, Rep.",KOR,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.443250000476837
+"Korea, Rep.",KOR,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.44293999671936
+"Korea, Rep.",KOR,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.444409996271133
+"Korea, Rep.",KOR,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.471960008144379
+"Korea, Rep.",KOR,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.409979999065399
+"Korea, Rep.",KOR,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.370330005884171
+"Korea, Rep.",KOR,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.358689993619919
+"Korea, Rep.",KOR,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.310559988021851
+"Korea, Rep.",KOR,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.32218000292778
+"Korea, Rep.",KOR,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.333849996328354
+"Korea, Rep.",KOR,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.351539999246597
+"Korea, Rep.",KOR,1976,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.360680013895035
+"Korea, Rep.",KOR,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.394650012254715
+"Korea, Rep.",KOR,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.38416001200676
+"Korea, Rep.",KOR,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.372519999742508
+"Korea, Rep.",KOR,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.355360001325607
+"Korea, Rep.",KOR,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.348109990358353
+"Korea, Rep.",KOR,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,16.67
+"Korea, Rep.",KOR,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17
+"Korea, Rep.",KOR,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17
+"Korea, Rep.",KOR,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17
+"Korea, Rep.",KOR,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,16.3
+"Korea, Rep.",KOR,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,16.3
+"Korea, Rep.",KOR,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,15.7
+"Korea, Rep.",KOR,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,15.7
+"Korea, Rep.",KOR,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.7
+"Korea, Rep.",KOR,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.7
+"Korea, Rep.",KOR,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.7
+"Korea, Rep.",KOR,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.7
+"Korea, Rep.",KOR,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.4
+"Korea, Rep.",KOR,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.4
+"Korea, Rep.",KOR,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.4
+"Korea, Rep.",KOR,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13
+"Korea, Rep.",KOR,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.9
+"Korea, Rep.",KOR,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.9
+"Korea, Rep.",KOR,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.9
+"Korea, Rep.",KOR,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.9
+"Korea, Rep.",KOR,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.7
+"Korea, Rep.",KOR,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.7
+"Korea, Rep.",KOR,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3
+"Korea, Rep.",KOR,1990,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2
+"Korea, Rep.",KOR,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,21.7070002555847
+"Korea, Rep.",KOR,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,21.8290004730224
+"Korea, Rep.",KOR,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,21.9619998931885
+"Korea, Rep.",KOR,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,21.9779996871948
+"Korea, Rep.",KOR,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,22.5740003585816
+"Korea, Rep.",KOR,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,23.53600025177
+"Korea, Rep.",KOR,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,24.2819995880127
+"Korea, Rep.",KOR,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,25.0390005111694
+"Korea, Rep.",KOR,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,25.5420007705689
+"Korea, Rep.",KOR,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,26.2559995651246
+"Korea, Rep.",KOR,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,27.9940004348755
+"Korea, Rep.",KOR,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,29.414999961853
+"Korea, Rep.",KOR,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,30.0170011520386
+"Korea, Rep.",KOR,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,31.1709995269776
+"Korea, Rep.",KOR,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,31.9090003967285
+"Korea, Rep.",KOR,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,32.6470003128052
+"Korea, Rep.",KOR,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,33.613000869751
+"Korea, Rep.",KOR,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,35.6730003356933
+"Korea, Rep.",KOR,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,36.855001449585
+"Korea, Rep.",KOR,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,37.6689987182617
+"Korea, Rep.",KOR,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,38.9129981994628
+"Korea, Rep.",KOR,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.5809993743897
+"Korea, Rep.",KOR,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,38.9330005645752
+"Korea, Rep.",KOR,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,39.2679996490478
+"Korea, Rep.",KOR,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,39.673999786377
+"Korea, Rep.",KOR,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.0120010375976
+"Korea, Rep.",KOR,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,41.0130004882812
+"Korea, Rep.",KOR,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.329999923706
+"Korea, Rep.",KOR,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,40.4110012054444
+"Korea, Rep.",KOR,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.6240004897117
+"Korea, Rep.",KOR,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.7529998421669
+"Korea, Rep.",KOR,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.8890001773835
+"Korea, Rep.",KOR,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,25.049000620842
+"Korea, Rep.",KOR,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,25.199999332428
+"Korea, Rep.",KOR,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,25.9730005264282
+"Korea, Rep.",KOR,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.4190005064011
+"Korea, Rep.",KOR,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,27.12399995327
+"Korea, Rep.",KOR,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.8860005140304
+"Korea, Rep.",KOR,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,27.258000254631
+"Korea, Rep.",KOR,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,27.9560009241104
+"Korea, Rep.",KOR,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,28.9029992818832
+"Korea, Rep.",KOR,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,29.2529993057251
+"Korea, Rep.",KOR,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,30.05399954319
+"Korea, Rep.",KOR,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,30.8219995498657
+"Korea, Rep.",KOR,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,31.3960005044937
+"Korea, Rep.",KOR,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.1679993867874
+"Korea, Rep.",KOR,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.5599999427795
+"Korea, Rep.",KOR,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.9290006160736
+"Korea, Rep.",KOR,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.6379998922348
+"Korea, Rep.",KOR,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.9600002765655
+"Korea, Rep.",KOR,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,33.1689995527267
+"Korea, Rep.",KOR,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,31.675999045372
+"Korea, Rep.",KOR,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,31.4030004739761
+"Korea, Rep.",KOR,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,31.4169991016388
+"Korea, Rep.",KOR,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,31.8470009565354
+"Korea, Rep.",KOR,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.5339999198913
+"Korea, Rep.",KOR,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.1509997844696
+"Korea, Rep.",KOR,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.0479993820191
+"Korea, Rep.",KOR,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.7949981689453
+"Korea, Rep.",KOR,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.8339996337891
+"Korea, Rep.",KOR,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.765998840332
+"Korea, Rep.",KOR,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.7789993286133
+"Korea, Rep.",KOR,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.2980003356934
+"Korea, Rep.",KOR,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,32.5789985656738
+"Korea, Rep.",KOR,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.2980003356934
+"Korea, Rep.",KOR,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.4069995880127
+"Korea, Rep.",KOR,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.2929992675781
+"Korea, Rep.",KOR,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.5219993591309
+"Korea, Rep.",KOR,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.2859992980957
+"Korea, Rep.",KOR,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.113000869751
+"Korea, Rep.",KOR,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.6080017089844
+"Korea, Rep.",KOR,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,36.4650001525879
+"Korea, Rep.",KOR,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,39.5180015563965
+"Korea, Rep.",KOR,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,39.9539985656738
+"Korea, Rep.",KOR,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,38.9700012207031
+"Korea, Rep.",KOR,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,38.7980003356934
+"Korea, Rep.",KOR,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,38.1629981994629
+"Korea, Rep.",KOR,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,37.3569984436035
+"Korea, Rep.",KOR,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,36.7019996643066
+"Korea, Rep.",KOR,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,37.193000793457
+"Korea, Rep.",KOR,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,40.8349990844727
+"Korea, Rep.",KOR,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.1800003051758
+"Korea, Rep.",KOR,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.8019981384277
+"Korea, Rep.",KOR,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.4010009765625
+"Korea, Rep.",KOR,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.5769996643066
+"Korea, Rep.",KOR,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.818000793457
+"Korea, Rep.",KOR,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,42.3120002746582
+"Korea, Rep.",KOR,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,41.601001739502
+"Korea, Rep.",KOR,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,28.5170001983643
+"Korea, Rep.",KOR,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,28.693000793457
+"Korea, Rep.",KOR,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,28.7950000762939
+"Korea, Rep.",KOR,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,28.568000793457
+"Korea, Rep.",KOR,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,28.1280002593994
+"Korea, Rep.",KOR,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,26.7310009002686
+"Korea, Rep.",KOR,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,24.4820003509521
+"Korea, Rep.",KOR,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,24.2099990844727
+"Korea, Rep.",KOR,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,23.2509994506836
+"Korea, Rep.",KOR,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,22.867000579834
+"Korea, Rep.",KOR,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,23.5009994506836
+"Korea, Rep.",KOR,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,24.4559993743896
+"Korea, Rep.",KOR,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,27.5009994506836
+"Korea, Rep.",KOR,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,28.7430000305176
+"Korea, Rep.",KOR,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,30.6660003662109
+"Korea, Rep.",KOR,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,32.2330017089844
+"Korea, Rep.",KOR,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,31.2040004730225
+"Korea, Rep.",KOR,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,31.7560005187988
+"Korea, Rep.",KOR,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,31.2099990844727
+"Korea, Rep.",KOR,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,32.5260009765625
+"Korea, Rep.",KOR,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,32.6539993286133
+"Korea, Rep.",KOR,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,32.7599983215332
+"Korea, Rep.",KOR,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,34.4020004272461
+"Korea, Rep.",KOR,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.3419990539551
+"Korea, Rep.",KOR,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.560001373291
+"Korea, Rep.",KOR,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,36.0060005187988
+"Korea, Rep.",KOR,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,34.6640014648438
+"Korea, Rep.",KOR,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.7690010070801
+"Korea, Rep.",KOR,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.7220001220703
+"Korea, Rep.",KOR,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.2999992370605
+"Korea, Rep.",KOR,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.5069999694824
+"Korea, Rep.",KOR,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.6119995117188
+"Korea, Rep.",KOR,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.6280002593994
+"Korea, Rep.",KOR,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.5100002288818
+"Korea, Rep.",KOR,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.0450000762939
+"Korea, Rep.",KOR,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,29.4899997711182
+"Korea, Rep.",KOR,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,27.2199993133545
+"Korea, Rep.",KOR,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,27.1200008392334
+"Korea, Rep.",KOR,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,26.0830001831055
+"Korea, Rep.",KOR,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,25.9839992523193
+"Korea, Rep.",KOR,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,26.2150001525879
+"Korea, Rep.",KOR,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,27.5900001525879
+"Korea, Rep.",KOR,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,30.3889999389648
+"Korea, Rep.",KOR,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.4119987487793
+"Korea, Rep.",KOR,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.890998840332
+"Korea, Rep.",KOR,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,35.9339981079102
+"Korea, Rep.",KOR,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.943000793457
+"Korea, Rep.",KOR,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,35.1580009460449
+"Korea, Rep.",KOR,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.5789985656738
+"Korea, Rep.",KOR,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.8709983825684
+"Korea, Rep.",KOR,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.6209983825684
+"Korea, Rep.",KOR,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.9140014648438
+"Korea, Rep.",KOR,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,37.5270004272461
+"Korea, Rep.",KOR,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.1759986877441
+"Korea, Rep.",KOR,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.5890007019043
+"Korea, Rep.",KOR,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.6240005493164
+"Korea, Rep.",KOR,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.0200004577637
+"Korea, Rep.",KOR,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.7070007324219
+"Korea, Rep.",KOR,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.923999786377
+"Korea, Rep.",KOR,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.3629989624023
+"Korea, Rep.",KOR,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,59.625
+"Korea, Rep.",KOR,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,59.3769989013672
+"Korea, Rep.",KOR,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,59.1180000305176
+"Korea, Rep.",KOR,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,58.4090003967285
+"Korea, Rep.",KOR,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.8610000610352
+"Korea, Rep.",KOR,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,56.9809989929199
+"Korea, Rep.",KOR,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,55.5209999084473
+"Korea, Rep.",KOR,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,55.1080017089844
+"Korea, Rep.",KOR,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.8009986877441
+"Korea, Rep.",KOR,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.4070014953613
+"Korea, Rep.",KOR,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,53.8689994812012
+"Korea, Rep.",KOR,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.7210006713867
+"Korea, Rep.",KOR,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.8860015869141
+"Korea, Rep.",KOR,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.9580001831055
+"Korea, Rep.",KOR,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.6069984436035
+"Korea, Rep.",KOR,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.1650009155273
+"Korea, Rep.",KOR,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.9529991149902
+"Korea, Rep.",KOR,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,53.4290008544922
+"Korea, Rep.",KOR,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.75
+"Korea, Rep.",KOR,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.1110000610352
+"Korea, Rep.",KOR,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.9939994812012
+"Korea, Rep.",KOR,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.5139999389648
+"Korea, Rep.",KOR,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,53.1520004272461
+"Korea, Rep.",KOR,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.0690002441406
+"Korea, Rep.",KOR,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,51.3520011901855
+"Korea, Rep.",KOR,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.6539993286133
+"Korea, Rep.",KOR,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.8030014038086
+"Korea, Rep.",KOR,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.6629981994629
+"Korea, Rep.",KOR,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.7760009765625
+"Korea, Rep.",KOR,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.7459983825684
+"Korea, Rep.",KOR,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.8349990844727
+"Korea, Rep.",KOR,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.5609970092773
+"Korea, Rep.",KOR,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.2919998168945
+"Korea, Rep.",KOR,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.927001953125
+"Korea, Rep.",KOR,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.6650009155273
+"Korea, Rep.",KOR,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.4909973144531
+"Korea, Rep.",KOR,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.3809967041016
+"Korea, Rep.",KOR,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.3160018920898
+"Korea, Rep.",KOR,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.0930023193359
+"Korea, Rep.",KOR,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.8349990844727
+"Korea, Rep.",KOR,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.6510009765625
+"Korea, Rep.",KOR,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.0749969482422
+"Korea, Rep.",KOR,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.6569976806641
+"Korea, Rep.",KOR,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.6900024414063
+"Korea, Rep.",KOR,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.0830001831055
+"Korea, Rep.",KOR,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.3300018310547
+"Korea, Rep.",KOR,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.9250030517578
+"Korea, Rep.",KOR,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.7060012817383
+"Korea, Rep.",KOR,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.9609985351563
+"Korea, Rep.",KOR,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.1309967041016
+"Korea, Rep.",KOR,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.1240005493164
+"Korea, Rep.",KOR,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.7529983520508
+"Korea, Rep.",KOR,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.5479965209961
+"Korea, Rep.",KOR,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.5390014648438
+"Korea, Rep.",KOR,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.3820037841797
+"Korea, Rep.",KOR,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.1039962768555
+"Korea, Rep.",KOR,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.3209991455078
+"Korea, Rep.",KOR,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.3519973754883
+"Korea, Rep.",KOR,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.9120025634766
+"Korea, Rep.",KOR,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.1849975585938
+"Korea, Rep.",KOR,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,69.4530029296875
+"Korea, Rep.",KOR,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,69.1859970092773
+"Korea, Rep.",KOR,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,68.9160003662109
+"Korea, Rep.",KOR,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,68.3789978027344
+"Korea, Rep.",KOR,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,67.9749984741211
+"Korea, Rep.",KOR,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,67.4520034790039
+"Korea, Rep.",KOR,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.1699981689453
+"Korea, Rep.",KOR,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.9339981079102
+"Korea, Rep.",KOR,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.6689987182617
+"Korea, Rep.",KOR,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.3399963378906
+"Korea, Rep.",KOR,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.9759979248047
+"Korea, Rep.",KOR,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.6009979248047
+"Korea, Rep.",KOR,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.9670028686523
+"Korea, Rep.",KOR,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.0090026855469
+"Korea, Rep.",KOR,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.0289993286133
+"Korea, Rep.",KOR,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.9280014038086
+"Korea, Rep.",KOR,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.1179962158203
+"Korea, Rep.",KOR,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.2369995117188
+"Korea, Rep.",KOR,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.5189971923828
+"Korea, Rep.",KOR,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.2819976806641
+"Korea, Rep.",KOR,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.7200012207031
+"Korea, Rep.",KOR,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.7929992675781
+"Korea, Rep.",KOR,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.4909973144531
+"Korea, Rep.",KOR,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.9449996948242
+"Korea, Rep.",KOR,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.5039978027344
+"Korea, Rep.",KOR,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.0110015869141
+"Korea, Rep.",KOR,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.1860008239746
+"Korea, Rep.",KOR,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.1259994506836
+"Korea, Rep.",KOR,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.9539985656738
+"Korea, Rep.",KOR,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.5699996948242
+"Korea, Rep.",KOR,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.7239990234375
+"Korea, Rep.",KOR,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.7529983520508
+"Korea, Rep.",KOR,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.7379989624023
+"Korea, Rep.",KOR,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.2360000610352
+"Korea, Rep.",KOR,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,51.9049987792969
+"Korea, Rep.",KOR,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,51.4529991149902
+"Korea, Rep.",KOR,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.2919998168945
+"Korea, Rep.",KOR,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.0229988098145
+"Korea, Rep.",KOR,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,49.7109985351563
+"Korea, Rep.",KOR,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,49.4900016784668
+"Korea, Rep.",KOR,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,49.2369995117188
+"Korea, Rep.",KOR,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.189998626709
+"Korea, Rep.",KOR,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.5050010681152
+"Korea, Rep.",KOR,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.6049995422363
+"Korea, Rep.",KOR,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.3870010375977
+"Korea, Rep.",KOR,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.0950012207031
+"Korea, Rep.",KOR,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,49.0690002441406
+"Korea, Rep.",KOR,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,49.7890014648438
+"Korea, Rep.",KOR,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,49.2919998168945
+"Korea, Rep.",KOR,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,48.818000793457
+"Korea, Rep.",KOR,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,47.7820014953613
+"Korea, Rep.",KOR,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,47.2680015563965
+"Korea, Rep.",KOR,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,49.9799995422363
+"Korea, Rep.",KOR,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,48.9770011901855
+"Korea, Rep.",KOR,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,48.3160018920898
+"Korea, Rep.",KOR,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,47.6699981689453
+"Korea, Rep.",KOR,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.8709983825684
+"Korea, Rep.",KOR,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.8969993591309
+"Korea, Rep.",KOR,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.9819984436035
+"Korea, Rep.",KOR,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,47.0029983520508
+"Korea, Rep.",KOR,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.2900009155273
+"Korea, Rep.",KOR,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.2770004272461
+"Korea, Rep.",KOR,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.2360000610352
+"Korea, Rep.",KOR,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.1709976196289
+"Korea, Rep.",KOR,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.1210021972656
+"Korea, Rep.",KOR,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.245002746582
+"Korea, Rep.",KOR,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.390998840332
+"Korea, Rep.",KOR,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.3830032348633
+"Korea, Rep.",KOR,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.234001159668
+"Korea, Rep.",KOR,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.1500015258789
+"Korea, Rep.",KOR,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.2109985351563
+"Korea, Rep.",KOR,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.7409973144531
+"Korea, Rep.",KOR,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.4749984741211
+"Korea, Rep.",KOR,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.5469970703125
+"Korea, Rep.",KOR,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.9629974365234
+"Korea, Rep.",KOR,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.3320007324219
+"Korea, Rep.",KOR,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.9700012207031
+"Korea, Rep.",KOR,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.1449966430664
+"Korea, Rep.",KOR,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.4779968261719
+"Korea, Rep.",KOR,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.7149963378906
+"Korea, Rep.",KOR,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.8050003051758
+"Korea, Rep.",KOR,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.4560012817383
+"Korea, Rep.",KOR,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.3769989013672
+"Korea, Rep.",KOR,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.3690032958984
+"Korea, Rep.",KOR,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.2839965820313
+"Korea, Rep.",KOR,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.0780029296875
+"Korea, Rep.",KOR,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.3399963378906
+"Korea, Rep.",KOR,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.4039993286133
+"Korea, Rep.",KOR,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.9560012817383
+"Korea, Rep.",KOR,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.2979965209961
+"Korea, Rep.",KOR,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.50799989700317
+"Korea, Rep.",KOR,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.67799997329712
+"Korea, Rep.",KOR,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.58500003814697
+"Korea, Rep.",KOR,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.58400011062622
+"Korea, Rep.",KOR,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.54299998283386
+"Korea, Rep.",KOR,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.44199991226196
+"Korea, Rep.",KOR,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.86800003051758
+"Korea, Rep.",KOR,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.96700000762939
+"Korea, Rep.",KOR,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.10500001907349
+"Korea, Rep.",KOR,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.28800010681152
+"Korea, Rep.",KOR,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.95799994468689
+"Korea, Rep.",KOR,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.60899996757507
+"Korea, Rep.",KOR,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.56200003623962
+"Korea, Rep.",KOR,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.95900011062622
+"Korea, Rep.",KOR,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.3510000705719
+"Korea, Rep.",KOR,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.40300011634827
+"Korea, Rep.",KOR,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.30200004577637
+"Korea, Rep.",KOR,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.77099990844727
+"Korea, Rep.",KOR,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.28999996185303
+"Korea, Rep.",KOR,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.57200002670288
+"Korea, Rep.",KOR,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.08699989318848
+"Korea, Rep.",KOR,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.65500020980835
+"Korea, Rep.",KOR,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.30299997329712
+"Korea, Rep.",KOR,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.58200001716614
+"Korea, Rep.",KOR,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.68499994277954
+"Korea, Rep.",KOR,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.92599999904633
+"Korea, Rep.",KOR,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.25200009346008
+"Korea, Rep.",KOR,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.1340000629425
+"Korea, Rep.",KOR,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.98699998855591
+"Korea, Rep.",KOR,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.86400008201599
+"Korea, Rep.",KOR,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.88100004196167
+"Korea, Rep.",KOR,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.78399991989136
+"Korea, Rep.",KOR,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.78299999237061
+"Korea, Rep.",KOR,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.64100003242493
+"Korea, Rep.",KOR,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.54099988937378
+"Korea, Rep.",KOR,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.26300001144409
+"Korea, Rep.",KOR,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.36299991607666
+"Korea, Rep.",KOR,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.60500001907349
+"Korea, Rep.",KOR,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.98600006103516
+"Korea, Rep.",KOR,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.04300022125244
+"Korea, Rep.",KOR,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.61299991607666
+"Korea, Rep.",KOR,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.64499998092651
+"Korea, Rep.",KOR,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.87800002098084
+"Korea, Rep.",KOR,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.94199991226196
+"Korea, Rep.",KOR,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.90400004386902
+"Korea, Rep.",KOR,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.80200004577637
+"Korea, Rep.",KOR,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.66199994087219
+"Korea, Rep.",KOR,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.48600006103516
+"Korea, Rep.",KOR,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.96099996566772
+"Korea, Rep.",KOR,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.17199993133545
+"Korea, Rep.",KOR,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.81199979782104
+"Korea, Rep.",KOR,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.81500005722046
+"Korea, Rep.",KOR,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.35800004005432
+"Korea, Rep.",KOR,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.31100010871887
+"Korea, Rep.",KOR,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.83299994468689
+"Korea, Rep.",KOR,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.28099989891052
+"Korea, Rep.",KOR,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.75699996948242
+"Korea, Rep.",KOR,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.67899990081787
+"Korea, Rep.",KOR,2018,Refugee population by country or territory of asylum,SM.POP.REFG,2903
+"Korea, Rep.",KOR,2017,Refugee population by country or territory of asylum,SM.POP.REFG,2203
+"Korea, Rep.",KOR,2016,Refugee population by country or territory of asylum,SM.POP.REFG,1807
+"Korea, Rep.",KOR,2015,Refugee population by country or territory of asylum,SM.POP.REFG,1463
+"Korea, Rep.",KOR,2014,Refugee population by country or territory of asylum,SM.POP.REFG,1173
+"Korea, Rep.",KOR,2013,Refugee population by country or territory of asylum,SM.POP.REFG,548
+"Korea, Rep.",KOR,2012,Refugee population by country or territory of asylum,SM.POP.REFG,487
+"Korea, Rep.",KOR,2011,Refugee population by country or territory of asylum,SM.POP.REFG,401
+"Korea, Rep.",KOR,2010,Refugee population by country or territory of asylum,SM.POP.REFG,358
+"Korea, Rep.",KOR,2009,Refugee population by country or territory of asylum,SM.POP.REFG,268
+"Korea, Rep.",KOR,2008,Refugee population by country or territory of asylum,SM.POP.REFG,172
+"Korea, Rep.",KOR,2007,Refugee population by country or territory of asylum,SM.POP.REFG,118
+"Korea, Rep.",KOR,2006,Refugee population by country or territory of asylum,SM.POP.REFG,96
+"Korea, Rep.",KOR,2005,Refugee population by country or territory of asylum,SM.POP.REFG,69
+"Korea, Rep.",KOR,2004,Refugee population by country or territory of asylum,SM.POP.REFG,44
+"Korea, Rep.",KOR,2003,Refugee population by country or territory of asylum,SM.POP.REFG,25
+"Korea, Rep.",KOR,2002,Refugee population by country or territory of asylum,SM.POP.REFG,17
+"Korea, Rep.",KOR,2001,Refugee population by country or territory of asylum,SM.POP.REFG,7
+"Korea, Rep.",KOR,2000,Refugee population by country or territory of asylum,SM.POP.REFG,6
+"Korea, Rep.",KOR,1999,Refugee population by country or territory of asylum,SM.POP.REFG,7
+"Korea, Rep.",KOR,1998,Refugee population by country or territory of asylum,SM.POP.REFG,1
+"Korea, Rep.",KOR,1997,Refugee population by country or territory of asylum,SM.POP.REFG,3
+"Korea, Rep.",KOR,1996,Refugee population by country or territory of asylum,SM.POP.REFG,6
+"Korea, Rep.",KOR,1995,Refugee population by country or territory of asylum,SM.POP.REFG,5
+"Korea, Rep.",KOR,1992,Refugee population by country or territory of asylum,SM.POP.REFG,149
+"Korea, Rep.",KOR,1991,Refugee population by country or territory of asylum,SM.POP.REFG,162
+"Korea, Rep.",KOR,1990,Refugee population by country or territory of asylum,SM.POP.REFG,230
+"Korea, Rep.",KOR,2018,Refugee population by country or territory of origin,SM.POP.REFG.OR,279
+"Korea, Rep.",KOR,2017,Refugee population by country or territory of origin,SM.POP.REFG.OR,234
+"Korea, Rep.",KOR,2016,Refugee population by country or territory of origin,SM.POP.REFG.OR,250
+"Korea, Rep.",KOR,2015,Refugee population by country or territory of origin,SM.POP.REFG.OR,353
+"Korea, Rep.",KOR,2014,Refugee population by country or territory of origin,SM.POP.REFG.OR,481
+"Korea, Rep.",KOR,2013,Refugee population by country or territory of origin,SM.POP.REFG.OR,500
+"Korea, Rep.",KOR,2012,Refugee population by country or territory of origin,SM.POP.REFG.OR,558
+"Korea, Rep.",KOR,2011,Refugee population by country or territory of origin,SM.POP.REFG.OR,514
+"Korea, Rep.",KOR,2010,Refugee population by country or territory of origin,SM.POP.REFG.OR,585
+"Korea, Rep.",KOR,2009,Refugee population by country or territory of origin,SM.POP.REFG.OR,573
+"Korea, Rep.",KOR,2008,Refugee population by country or territory of origin,SM.POP.REFG.OR,1104
+"Korea, Rep.",KOR,2007,Refugee population by country or territory of origin,SM.POP.REFG.OR,1188
+"Korea, Rep.",KOR,2006,Refugee population by country or territory of origin,SM.POP.REFG.OR,1335
+"Korea, Rep.",KOR,2005,Refugee population by country or territory of origin,SM.POP.REFG.OR,268
+"Korea, Rep.",KOR,2004,Refugee population by country or territory of origin,SM.POP.REFG.OR,272
+"Korea, Rep.",KOR,2003,Refugee population by country or territory of origin,SM.POP.REFG.OR,237
+"Korea, Rep.",KOR,2002,Refugee population by country or territory of origin,SM.POP.REFG.OR,245
+"Korea, Rep.",KOR,2001,Refugee population by country or territory of origin,SM.POP.REFG.OR,83
+"Korea, Rep.",KOR,2000,Refugee population by country or territory of origin,SM.POP.REFG.OR,73
+"Korea, Rep.",KOR,1999,Refugee population by country or territory of origin,SM.POP.REFG.OR,75
+"Korea, Rep.",KOR,1998,Refugee population by country or territory of origin,SM.POP.REFG.OR,65
+"Korea, Rep.",KOR,1997,Refugee population by country or territory of origin,SM.POP.REFG.OR,48
+"Korea, Rep.",KOR,1996,Refugee population by country or territory of origin,SM.POP.REFG.OR,42
+"Korea, Rep.",KOR,1995,Refugee population by country or territory of origin,SM.POP.REFG.OR,30
+"Korea, Rep.",KOR,1994,Refugee population by country or territory of origin,SM.POP.REFG.OR,17
+"Korea, Rep.",KOR,1993,Refugee population by country or territory of origin,SM.POP.REFG.OR,7
+"Korea, Rep.",KOR,1992,Refugee population by country or territory of origin,SM.POP.REFG.OR,5
+"Korea, Rep.",KOR,1991,Refugee population by country or territory of origin,SM.POP.REFG.OR,5
+"Korea, Rep.",KOR,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.379
+"Korea, Rep.",KOR,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.4564
+"Korea, Rep.",KOR,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.5338
+"Korea, Rep.",KOR,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.6112
+"Korea, Rep.",KOR,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.6886
+"Korea, Rep.",KOR,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.766
+"Korea, Rep.",KOR,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.8126
+"Korea, Rep.",KOR,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.8592
+"Korea, Rep.",KOR,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.9058
+"Korea, Rep.",KOR,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.9524
+"Korea, Rep.",KOR,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1.999
+"Korea, Rep.",KOR,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.0372
+"Korea, Rep.",KOR,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.0754
+"Korea, Rep.",KOR,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.1136
+"Korea, Rep.",KOR,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.1518
+"Korea, Rep.",KOR,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.19
+"Korea, Rep.",KOR,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.3372
+"Korea, Rep.",KOR,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.4844
+"Korea, Rep.",KOR,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.6316
+"Korea, Rep.",KOR,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.7788
+"Korea, Rep.",KOR,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.926
+"Korea, Rep.",KOR,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.163
+"Korea, Rep.",KOR,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.4
+"Korea, Rep.",KOR,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.637
+"Korea, Rep.",KOR,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.874
+"Korea, Rep.",KOR,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.111
+"Korea, Rep.",KOR,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.5674
+"Korea, Rep.",KOR,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.0238
+"Korea, Rep.",KOR,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.4802
+"Korea, Rep.",KOR,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.9366
+"Korea, Rep.",KOR,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.393
+"Korea, Rep.",KOR,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.5726
+"Korea, Rep.",KOR,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.7522
+"Korea, Rep.",KOR,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.9318
+"Korea, Rep.",KOR,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,11.1114
+"Korea, Rep.",KOR,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.291
+"Korea, Rep.",KOR,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.7834
+"Korea, Rep.",KOR,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.2758
+"Korea, Rep.",KOR,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.7682
+"Korea, Rep.",KOR,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,14.2606
+"Korea, Rep.",KOR,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,14.753
+"Korea, Rep.",KOR,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,14.3748
+"Korea, Rep.",KOR,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.9966
+"Korea, Rep.",KOR,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.6184
+"Korea, Rep.",KOR,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.2402
+"Korea, Rep.",KOR,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.862
+"Korea, Rep.",KOR,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,14.136
+"Korea, Rep.",KOR,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.41
+"Korea, Rep.",KOR,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,16.684
+"Korea, Rep.",KOR,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,17.958
+"Korea, Rep.",KOR,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,19.232
+"Korea, Rep.",KOR,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.2746
+"Korea, Rep.",KOR,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.3172
+"Korea, Rep.",KOR,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,25.3598
+"Korea, Rep.",KOR,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.4024
+"Korea, Rep.",KOR,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.445
+"Korea, Rep.",KOR,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,30.967
+"Korea, Rep.",KOR,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,32.489
+"Korea, Rep.",KOR,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.7
+"Korea, Rep.",KOR,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.4
+"Korea, Rep.",KOR,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.2
+"Korea, Rep.",KOR,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85
+"Korea, Rep.",KOR,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.6
+"Korea, Rep.",KOR,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.2
+"Korea, Rep.",KOR,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84
+"Korea, Rep.",KOR,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.6
+"Korea, Rep.",KOR,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.4
+"Korea, Rep.",KOR,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83
+"Korea, Rep.",KOR,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.5
+"Korea, Rep.",KOR,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.1
+"Korea, Rep.",KOR,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.6
+"Korea, Rep.",KOR,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.2
+"Korea, Rep.",KOR,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.8
+"Korea, Rep.",KOR,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.3
+"Korea, Rep.",KOR,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.1
+"Korea, Rep.",KOR,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.7
+"Korea, Rep.",KOR,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.2
+"Korea, Rep.",KOR,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79
+"Korea, Rep.",KOR,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.7
+"Korea, Rep.",KOR,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.3
+"Korea, Rep.",KOR,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.9
+"Korea, Rep.",KOR,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.7
+"Korea, Rep.",KOR,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.3
+"Korea, Rep.",KOR,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.8
+"Korea, Rep.",KOR,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.4
+"Korea, Rep.",KOR,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.9
+"Korea, Rep.",KOR,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.3
+"Korea, Rep.",KOR,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.8
+"Korea, Rep.",KOR,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.3
+"Korea, Rep.",KOR,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.8
+"Korea, Rep.",KOR,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.2
+"Korea, Rep.",KOR,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.6
+"Korea, Rep.",KOR,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.9
+"Korea, Rep.",KOR,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.5
+"Korea, Rep.",KOR,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.9
+"Korea, Rep.",KOR,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.4
+"Korea, Rep.",KOR,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.9
+"Korea, Rep.",KOR,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.5
+"Korea, Rep.",KOR,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.1
+"Korea, Rep.",KOR,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.6
+"Korea, Rep.",KOR,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.2
+"Korea, Rep.",KOR,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.8
+"Korea, Rep.",KOR,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.3
+"Korea, Rep.",KOR,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.8
+"Korea, Rep.",KOR,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.3
+"Korea, Rep.",KOR,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.8
+"Korea, Rep.",KOR,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.475
+"Korea, Rep.",KOR,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.762
+"Korea, Rep.",KOR,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.086
+"Korea, Rep.",KOR,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.453
+"Korea, Rep.",KOR,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.883
+"Korea, Rep.",KOR,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.392
+"Korea, Rep.",KOR,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.956
+"Korea, Rep.",KOR,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.531
+"Korea, Rep.",KOR,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.069
+"Korea, Rep.",KOR,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.509
+"Korea, Rep.",KOR,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.7
+"Korea, Rep.",KOR,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.3
+"Korea, Rep.",KOR,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79
+"Korea, Rep.",KOR,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.6
+"Korea, Rep.",KOR,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.1
+"Korea, Rep.",KOR,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.6
+"Korea, Rep.",KOR,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.3
+"Korea, Rep.",KOR,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.8
+"Korea, Rep.",KOR,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.7
+"Korea, Rep.",KOR,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.2
+"Korea, Rep.",KOR,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.9
+"Korea, Rep.",KOR,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.4
+"Korea, Rep.",KOR,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.9
+"Korea, Rep.",KOR,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.3
+"Korea, Rep.",KOR,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.8
+"Korea, Rep.",KOR,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.4
+"Korea, Rep.",KOR,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.9
+"Korea, Rep.",KOR,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.3
+"Korea, Rep.",KOR,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.8
+"Korea, Rep.",KOR,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.2
+"Korea, Rep.",KOR,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.7
+"Korea, Rep.",KOR,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.2
+"Korea, Rep.",KOR,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.7
+"Korea, Rep.",KOR,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.3
+"Korea, Rep.",KOR,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.9
+"Korea, Rep.",KOR,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.4
+"Korea, Rep.",KOR,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.9
+"Korea, Rep.",KOR,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.5
+"Korea, Rep.",KOR,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67
+"Korea, Rep.",KOR,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.5
+"Korea, Rep.",KOR,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.9
+"Korea, Rep.",KOR,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.3
+"Korea, Rep.",KOR,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.6
+"Korea, Rep.",KOR,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64
+"Korea, Rep.",KOR,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.4
+"Korea, Rep.",KOR,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.9
+"Korea, Rep.",KOR,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.4
+"Korea, Rep.",KOR,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.9
+"Korea, Rep.",KOR,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.4
+"Korea, Rep.",KOR,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.1
+"Korea, Rep.",KOR,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.9
+"Korea, Rep.",KOR,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.6
+"Korea, Rep.",KOR,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.3
+"Korea, Rep.",KOR,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60
+"Korea, Rep.",KOR,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.7
+"Korea, Rep.",KOR,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.4
+"Korea, Rep.",KOR,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.1
+"Korea, Rep.",KOR,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.7
+"Korea, Rep.",KOR,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.056
+"Korea, Rep.",KOR,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.309
+"Korea, Rep.",KOR,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.58
+"Korea, Rep.",KOR,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.882
+"Korea, Rep.",KOR,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.24
+"Korea, Rep.",KOR,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.678
+"Korea, Rep.",KOR,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.175
+"Korea, Rep.",KOR,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.685
+"Korea, Rep.",KOR,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.154
+"Korea, Rep.",KOR,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.517
